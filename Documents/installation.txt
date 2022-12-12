@@ -1,0 +1,4 @@
+//if not able to execute create-react-app 
+1) npm config set registry http://registry.npmjs.org/
+2) npm uninstall -g create-react-app
+3) npx  create-react-app my-app  
