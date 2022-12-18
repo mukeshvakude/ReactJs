@@ -5,119 +5,192 @@ import Navbar from "./Navbar";
 function Search() {
     let [text, setText] = useState("");
     let [packageData, setPackageData] = useState([]);
+    
+    
     let [tempData, setTempdata] = useState([]);
     var tempArray = [];
-    let [filterTextCalled , setFilterTextCalled] = useState(true);
-    
-    // let  [tempData ,setTempdata] = useState( [
-    //     { empid: 1, empname: 'Rajat Singh', salary: 150000,dept:'Web development', depiId :1 ,gender : 'male' },
-    //     { empid: 2, empname: 'Pragati Chauhan', salary: 950000, dept:'Software development' ,gender : 'female' },
-    //     { empid: 3, empname: 'Aditya Singh', salary: 750000 , dept:'Mobile app development' ,gender : 'male'},
-    //     { empid: 4, empname: 'Manoj Singh', salary: 650000 , dept:'Admin' ,gender : 'male'},
-    //     { empid: 5, empname: 'Azad Rawat', salary: 750000, dept:'Web development' ,gender : 'male'},
-    //     { empid: 6, empname: 'Amit Rawat', salary: 750000, dept:'Web development',gender : 'male'},
-    //     { empid: 8, empname: 'Ajay Rawat', salary: 750000, dept:'Web development',gender : 'male'},
-    // ])
+    let [filterTextCalled, setFilterTextCalled] = useState(true);
 
     let [searchedText, setSearchedText] = useState([]);
+    
 
+    function getPackageData() {
 
-    function getPackageData (){
-       
+        //API CALL
         axios.get("http://localhost:3001/Package").then(response => {
-            setPackageData(response.data);
+            if (response.data !== undefined) {
+               // setHolidayObjectsData(response.data);
+                setPackageData(response.data); //stored in array 
+            }
+
             // console.log(packageData);
         })
     }
+    // var pageUrl = window.location.href;
+    // var searchAutoSuggest = "";
+    // let [searchresults ,setSearchresults ] = useState([]);
+    // function setHolidayObjectsData(response) {
+       
+    //     response.forEach((packageSearchRes) => {
+
+    //     let holidayObjects= {
+
+
+    //         windowURL: pageUrl, //window.location.origin + window.location.pathname.toLowerCase() + window.location.search,
+    //         searchParameter: '',
+    //         destinationName: '',
+    //         searchType: '',
+    //         countryCode: '',
+    //         searchCode: '',
+    //         stateCode: '',
+    //         searchLatitude: '',
+    //         searchLongitude: '',
+    //         conName: '',
+    //         couName: '',
+    //         staName: '',
+    //         citName: '',
+    //         holidayMonth: '',
+    //         holidayBudget: ''
+    //         // theme: getUrlParameter('theme'),
+    //         // pkgSubType: getUrlParameter('subtype'),
+    //         // language: getUrlParameter('language'),
+    //         // eventId: getUrlParameter('eventId'),
+    //         // destination: getUrlParameter('destination')
+    
+    //     };
+        
+    //     // var urlCheck = holidayObjects.windowURL;
+    //     // var j = -1;
+    //     //  if (urlCheck.indexOf("theme-holidays") > -1) {
+    //     // for (var i = 0; i < packageSearchRes.length; i++) {
+           
+    //     //     if (packageSearchRes[i].searchString.toLowerCase() === holidayObjects.searchParameter) {
+    //     //         j = i;
+    //     //     }
+    //     // }
+       
+    //     // }
+    //     searchAutoSuggest = packageSearchRes;
+       
+    //     if (Object.keys(packageSearchRes).length > 0 ) {
+           
+    //         holidayObjects.searchType = packageSearchRes.searchType;
+    //         holidayObjects.locationCode = packageSearchRes.locationCode;
+    //         holidayObjects.countryCode = packageSearchRes.countryCode;
+    //         holidayObjects.searchLatitude = packageSearchRes.searchLatitude;
+    //         holidayObjects.searchLongitude = packageSearchRes.searchLongitude;
+    //         holidayObjects.stateCode = packageSearchRes.stateCode;
+    //         holidayObjects.conName = packageSearchRes.continentName;
+    //         holidayObjects.couName = packageSearchRes.countryName;
+    //         holidayObjects.staName = packageSearchRes.stateName;
+    //         holidayObjects.citName = packageSearchRes.cityName;
+    //         console.log( holidayObjects.searchType);
+    //         console.log( "holidayObjects.searchType");
+
+    //         if (holidayObjects.searchType === "CITY") {
+    //             holidayObjects.searchCode = packageSearchRes.locationCode;
+    //         } else if (holidayObjects.searchType === "COUNTRY") {
+               
+    //             holidayObjects.searchCode = packageSearchRes.countryCode;
+    //         } else if (holidayObjects.searchType === "STATE") {
+    //             holidayObjects.searchCode = packageSearchRes.stateCode;
+    //         }
+    //     }
+       
+        
+    //     // if (holidayObjects.destinationName !== '') {
+    //         if (holidayObjects.searchType === 'CITY' || holidayObjects.searchType === 'STATE' || holidayObjects.searchType === 'COUNTRY' || holidayObjects.searchType === 'CONTINENT' || holidayObjects.searchType === 'THEME') {
+    //             // var a = holidayObjects.destinationName.charAt(0).toUpperCase() + holidayObjects.destinationName.slice(1);
+               
+    //             if(searchresults.length < 5){
+    //                 searchresults.push(holidayObjects);
+    //             }
+    //         }
+    //     // }
+        
+
+    //     });
+    //     console.log(searchresults);
+    //     console.log("searchresults");
+
+    // }
+
     function filterText() {
-       if(filterTextCalled){
-        getPackageData();
-        setSearchedText(
-            packageData.filter((PackageData) => {
-                if (text.length > 2) {
+        if (filterTextCalled) {
+            getPackageData();
+            setSearchedText(
+                packageData.filter((PackageData) => {
+                    if (text.length > 2) {
 
-                    var serachData = PackageData.pkgnameIdMappingList.filter((pkg) => {
-                        if (pkg.packageName.toLowerCase().includes(text.toLowerCase())) {
-                            tempArray.push(pkg);
-                            return true;
-                        }
-
-
-                    })
-
-                    return serachData;
-                    //console.log(PackageData);
-                }
-
-            }))
+                        var serachData = PackageData.pkgnameIdMappingList.filter((pkg) => {
+                            if (pkg.packageName.toLowerCase().includes(text.toLowerCase())) {
+                                if (tempArray.length < 5) {
+                                    tempArray.push(pkg);
+                                    return true;
+                                }
+                            }
+                        })
+                        return serachData;
+                        //console.log(PackageData);
+                    }
+                }))
             if (text.length == 1) {
                 setSearchedText([]);
             }
             // setTempdata(tempArray);
             removeDuplicate(tempArray)
         }
-
-        
-       
     }
 
     function removeDuplicate(tempArray) {
-
         const unique = [];
-
         tempArray.map(x => unique.filter(a => a.packageId == x.packageId).length > 0 ? null : unique.push(x));
         setTempdata(unique);
-        console.log(tempData);
-        console.log("tempData Array");
-
-      
     }
 
-    function resetFilter(pkgName){
+    function resetFilter(pkgName) {
         filterTextCalled = false;
         setFilterTextCalled(false);
-        console.log("Inside reset filter" + pkgName);
         text = pkgName;
-        setText(pkgName);
-        console.log(text)
+        setText(pkgName);    
         setTempdata([]);
     }
 
     return (
 
         <>
-        <Navbar title="Thomascook"/>
-        <div className="container">
-            
-            <form className="d-flex" role="search">
-                <input className="form-control me-2" type="search" value = {text} placeholder="Search" onChange={(e) => { setText(e.target.value); filterText() }} aria-label="Search" />
-               
-                <Link className="btn btn-outline-success" to={filterTextCalled === false ? "/SRP" : "/holiday"} rel="noreferrer">
-                    Search
-                </Link>
+            <Navbar />
+            <div className="container">
 
-            </form>
+                <form className="d-flex" role="search">
+                    <input className="form-control me-2" type="search" value={text} placeholder="Search" onChange={(e) => { setText(e.target.value); filterText() }} aria-label="Search" />
 
-            <div>
+                    <Link className="btn btn-outline-success" to={filterTextCalled === false ? "/holiday/SRP" : "/holiday"} rel="noreferrer">
+                        Search
+                    </Link>
 
-                <table className='table table-striped'>
-                    <tbody>
+                </form>
 
-                        {
-                            tempData.map((item, idx) => {
-                                return (
-                                    <tr key={idx} >
+                <div>
 
-                                        <td><a onClick={() => resetFilter(item.packageName)}>  {item.packageName} </a></td>
+                    <table className='table table-striped'>
+                        <tbody>
 
-                                    </tr>
-                                )
-                            })
-                        }
+                            {
+                                tempData.map((item, idx) => {
+                                    return (
+                                        <tr key={idx} >
 
-                    </tbody>
-                </table>
-            </div>
+                                            <td><a onClick={() => resetFilter(item.packageName)}>  {item.packageName} </a></td>
+
+                                        </tr>
+                                    )
+                                })
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
             </div>
         </>
     )

@@ -1,8 +1,15 @@
+import Navbar from "./Navbar";
 
 
 function HelloWorld(){
     
-    return "Hello World";
+    return(
+
+        <>
+            <Navbar/>
+            <h2> SRP PAGE</h2>
+        </>
+    )
 }
 
 export default HelloWorld;

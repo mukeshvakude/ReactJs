@@ -2,3 +2,20 @@
 1) npm config set registry http://registry.npmjs.org/
 2) npm uninstall -g create-react-app
 3) npx  create-react-app my-app  
+
+# Command of webpack
+"start": "webpack serve --mode production --open --hot",
+"build": "webpack --mode production"
+Notes :
+1) "build": "webpack --config webpackktest.js --mode production", //if we change the name of webpack.confing.js then use command webpack --config webpackktest.js
+//Webpack Installations
+1) npm i --save-dev webpack webpack-dev-server webpack-cli
+2) npm install --save-dev @babel/core  babel-loader
+3) npm install @babel-preset-env --save-dev
+4) npm install @babel-preset-react
+5) npm install --save @babel/runtime
+6) npm install --save-dev @babel/plugin-transform-runtime  
+7) npm install --save-dev css-loader
+8) npm install --save-dev style-loader
+9) npm install --save-dev clean-webpack-plugin  // Use to delete existing compress file and add new compress file
+10 npm install css-minimizer-webpack-plugin --save-dev // compress css file into seperate file

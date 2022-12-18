@@ -1,9 +1,9 @@
 
 
-import Counter from './Component/Counter';
+
 import HelloWorld from './Component/HelloWorld';
 import Search from './Component/Serach';
-import Navbar from './Component/Navbar';
+
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
          
           <Route exact path="/holiday" element={<Search />}/>
           
-          <Route exact path="/SRP" element={<HelloWorld />}/>
+          <Route exact path="/holiday/SRP" element={<HelloWorld />}/>
         </Routes>
       
       </div>
