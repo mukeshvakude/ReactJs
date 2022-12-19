@@ -9,10 +9,17 @@ module.exports = {
     // externals: {
     //     'react': 'React'
     // },
-    entry: "/src/index.js",
+    entry: {
+        
+       main :  "/src/index.js",
+       vendor : "/src/component/Counter.js"
+    },
+    resolve: {
+        extensions: ['.js', '.css', '.scss','.jsx']
+      },
     output: {
         path: path.join(__dirname, '/dist'),
-        filename: "main.js"
+        filename: "[name].js"
     },
 
     module: {
@@ -51,6 +58,13 @@ module.exports = {
 
             template: './public/index.html',
             filename: './index.html',
+            minify :{
+                removeComments : true,
+                collapseWhitespace : true,
+                removeAttributeQuotes :true,
+                minifyJS:true,
+                minifyCSS :true
+            }
            
         }),
 
@@ -60,11 +74,7 @@ module.exports = {
         new CleanWebpackPlugin(),
     ],
 
-    // performance: {
-    //     hints: false,
-    //     maxEntrypointSize: 512000,
-    //     maxAssetSize: 512000
-    // },
+    
     devServer: {
         host: 'localhost',
         port: port,

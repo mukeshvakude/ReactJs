@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import axios from 'axios';
 import Navbar from "./Navbar";
+import SrpSearch from "./SrpSearch";
 function Search() {
     let [text, setText] = useState("");
     let [packageData, setPackageData] = useState([]);
@@ -22,8 +23,6 @@ function Search() {
                // setHolidayObjectsData(response.data);
                 setPackageData(response.data); //stored in array 
             }
-
-            // console.log(packageData);
         })
     }
     // var pageUrl = window.location.href;
@@ -131,13 +130,13 @@ function Search() {
                             }
                         })
                         return serachData;
-                        //console.log(PackageData);
+                      
                     }
                 }))
             if (text.length == 1) {
                 setSearchedText([]);
             }
-            // setTempdata(tempArray);
+          
             removeDuplicate(tempArray)
         }
     }
@@ -157,41 +156,12 @@ function Search() {
     }
 
     return (
-
+       
         <>
+       
             <Navbar />
-            <div className="container">
-
-                <form className="d-flex" role="search">
-                    <input className="form-control me-2" type="search" value={text} placeholder="Search" onChange={(e) => { setText(e.target.value); filterText() }} aria-label="Search" />
-
-                    <Link className="btn btn-outline-success" to={filterTextCalled === false ? "/holiday/SRP" : "/holiday"} rel="noreferrer">
-                        Search
-                    </Link>
-
-                </form>
-
-                <div>
-
-                    <table className='table table-striped'>
-                        <tbody>
-
-                            {
-                                tempData.map((item, idx) => {
-                                    return (
-                                        <tr key={idx} >
-
-                                            <td><a onClick={() => resetFilter(item.packageName)}>  {item.packageName} </a></td>
-
-                                        </tr>
-                                    )
-                                })
-                            }
-
-                        </tbody>
-                    </table>
-                </div>
-            </div>
+            <SrpSearch text= {text} setText = {setText} tempData = {tempData} filterTextCalled = {filterTextCalled} filterText = {filterText} resetFilter = {resetFilter} />
+            
         </>
     )
 }

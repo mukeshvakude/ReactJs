@@ -15,7 +15,6 @@ function App() {
         <Routes>
          
           <Route exact path="/holiday" element={<Search />}/>
-          
           <Route exact path="/holiday/SRP" element={<HelloWorld />}/>
         </Routes>
       

@@ -1,0 +1,4 @@
+1)  download Reactjs code snippets extention from vscode extention table
+
+Shorcuts 
+1) function based component use rfc + tab
