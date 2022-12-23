@@ -1,405 +1,419 @@
 {
-   "Package" : [
+   "Package" :[
     {
-       "cityName":"Dubai.",
-       "continentName":"Asia",
-       "countryCode":"Du",
-       "countryName":"Dubai",
-       "locationCode":"",
-       "pkgnameIdMappingList":[
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002547",
-             "packageName":"Dubai Dynapack",
-             "pdpSeoUrl":"Dubai Dynapack",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002069",
-             "packageName":"Hplus Dubai Optional FLight",
-             "pdpSeoUrl":"Hplus Dubai Optional FLight",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002358",
-             "packageName":"Copy - Hplus Dubai Optional FLight",
-             "pdpSeoUrl":"Hplus Dubai Optional FLight",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002361",
-             "packageName":"Copy - Hplus Dubai Optional Flight_CANVAS PKG",
-             "pdpSeoUrl":"Hplus Dubai Optional Flight_CANVAS PKG",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002556",
-             "packageName":"Copy - Copy - Hplus Dubai Optional Flight_CANVAS PKG",
-             "pdpSeoUrl":"Hplus Dubai Optional Flight_CANVAS PKG",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002598",
-             "packageName":"Dubai Dynapack",
-             "pdpSeoUrl":"Dubai Dynapack",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002418",
-             "packageName":"Magical Dubai",
-             "pdpSeoUrl":"Magical Dubai",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002600",
-             "packageName":"dubai hotels",
-             "pdpSeoUrl":"dubai hotels",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002601",
-             "packageName":"dubai no hotels",
-             "pdpSeoUrl":"dubai no hotels",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002619",
-             "packageName":"Customizable Dubai - Testing HD",
-             "pdpSeoUrl":"Customizable Dubai - Testing HD",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002628",
-             "packageName":"Copy - Customizable Dubai - Testing HD",
-             "pdpSeoUrl":"Customizable Dubai - Testing HD",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002422",
-             "packageName":"LT Dubai GIT",
-             "pdpSeoUrl":"LT Dubai GIT",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002629",
-             "packageName":"Customizable - My Dubai",
-             "pdpSeoUrl":"Customizable - My Dubai",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002661",
-             "packageName":"Copy - Customizable - My Dubai",
-             "pdpSeoUrl":"Customizable - My Dubai",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002665",
-             "packageName":"Customizable 4N Dubai & 2N Abu Dhabi",
-             "pdpSeoUrl":"Customizable - My Dubai",
-             "productId":11
-          }
-       ],
-       "searchLatitude":25.2,
-       "searchLongitude":55.27,
-       "searchString":"Dubai",
-       "searchType":"COUNTRY",
-       "stateCode":"",
-       "stateName":"",
-       "themeName":[
-          
-       ]
+      "cityName": "Dubai.",
+      "continentName": "Asia",
+      "countryCode": "Du",
+      "countryName": "Dubai",
+      "locationCode": "",
+      "pkgnameIdMappingList": [
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002547",
+          "packageName": "Dubai Dynapack",
+          "pdpSeoUrl": "Dubai Dynapack",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002069",
+          "packageName": "Hplus Dubai Optional FLight",
+          "pdpSeoUrl": "Hplus Dubai Optional FLight",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002358",
+          "packageName": "Copy - Hplus Dubai Optional FLight",
+          "pdpSeoUrl": "Hplus Dubai Optional FLight",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002361",
+          "packageName": "Copy - Hplus Dubai Optional Flight_CANVAS PKG",
+          "pdpSeoUrl": "Hplus Dubai Optional Flight_CANVAS PKG",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002556",
+          "packageName": "Copy - Copy - Hplus Dubai Optional Flight_CANVAS PKG",
+          "pdpSeoUrl": "Hplus Dubai Optional Flight_CANVAS PKG",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002598",
+          "packageName": "Dubai Dynapack",
+          "pdpSeoUrl": "Dubai Dynapack",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002418",
+          "packageName": "Magical Dubai",
+          "pdpSeoUrl": "Magical Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002600",
+          "packageName": "dubai hotels",
+          "pdpSeoUrl": "dubai hotels",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002601",
+          "packageName": "dubai no hotels",
+          "pdpSeoUrl": "dubai no hotels",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002619",
+          "packageName": "Customizable Dubai - Testing HD",
+          "pdpSeoUrl": "Customizable Dubai - Testing HD",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002628",
+          "packageName": "Copy - Customizable Dubai - Testing HD",
+          "pdpSeoUrl": "Customizable Dubai - Testing HD",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002422",
+          "packageName": "LT Dubai GIT",
+          "pdpSeoUrl": "LT Dubai GIT",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002558",
+          "packageName": "Dazzling Dubai",
+          "pdpSeoUrl": "Dazzling Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002629",
+          "packageName": "Customizable - My Dubai",
+          "pdpSeoUrl": "Customizable - My Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002661",
+          "packageName": "Copy - Customizable - My Dubai",
+          "pdpSeoUrl": "Customizable - My Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002665",
+          "packageName": "Customizable 4N Dubai & 2N Abu Dhabi",
+          "pdpSeoUrl": "Customizable - My Dubai",
+          "productId": 11
+        }
+      ],
+      "searchLatitude": 25.2,
+      "searchLongitude": 55.27,
+      "searchString": "Dubai",
+      "searchType": "COUNTRY",
+      "stateCode": "",
+      "stateName": "",
+      "themeName": [
+  
+      ]
     },
     {
-       "cityName":"Dubai.",
-       "continentName":"Asia",
-       "countryCode":"Du",
-       "countryName":"Dubai",
-       "locationCode":"Du",
-       "pkgnameIdMappingList":[
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002547",
-             "packageName":"Dubai Dynapack",
-             "pdpSeoUrl":"Dubai Dynapack",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002069",
-             "packageName":"Hplus Dubai Optional FLight",
-             "pdpSeoUrl":"Hplus Dubai Optional FLight",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002358",
-             "packageName":"Copy - Hplus Dubai Optional FLight",
-             "pdpSeoUrl":"Hplus Dubai Optional FLight",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002361",
-             "packageName":"Copy - Hplus Dubai Optional Flight_CANVAS PKG",
-             "pdpSeoUrl":"Hplus Dubai Optional Flight_CANVAS PKG",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002556",
-             "packageName":"Copy - Copy - Hplus Dubai Optional Flight_CANVAS PKG",
-             "pdpSeoUrl":"Hplus Dubai Optional Flight_CANVAS PKG",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002598",
-             "packageName":"Dubai Dynapack",
-             "pdpSeoUrl":"Dubai Dynapack",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002418",
-             "packageName":"Magical Dubai",
-             "pdpSeoUrl":"Magical Dubai",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002600",
-             "packageName":"dubai hotels",
-             "pdpSeoUrl":"dubai hotels",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002601",
-             "packageName":"dubai no hotels",
-             "pdpSeoUrl":"dubai no hotels",
-             "productId":11
-          }
-       ],
-       "searchLatitude":25.2,
-       "searchLongitude":55.27,
-       "searchString":"Dubai.",
-       "searchType":"CITY",
-       "stateCode":"",
-       "stateName":"Dubai",
-       "themeName":[
-          
-       ]
+      "cityName": "Dubai.",
+      "continentName": "Asia",
+      "countryCode": "Du",
+      "countryName": "Dubai",
+      "locationCode": "Du",
+      "pkgnameIdMappingList": [
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002547",
+          "packageName": "Dubai Dynapack",
+          "pdpSeoUrl": "Dubai Dynapack",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002069",
+          "packageName": "Hplus Dubai Optional FLight",
+          "pdpSeoUrl": "Hplus Dubai Optional FLight",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002358",
+          "packageName": "Copy - Hplus Dubai Optional FLight",
+          "pdpSeoUrl": "Hplus Dubai Optional FLight",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002361",
+          "packageName": "Copy - Hplus Dubai Optional Flight_CANVAS PKG",
+          "pdpSeoUrl": "Hplus Dubai Optional Flight_CANVAS PKG",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002556",
+          "packageName": "Copy - Copy - Hplus Dubai Optional Flight_CANVAS PKG",
+          "pdpSeoUrl": "Hplus Dubai Optional Flight_CANVAS PKG",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002598",
+          "packageName": "Dubai Dynapack",
+          "pdpSeoUrl": "Dubai Dynapack",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002418",
+          "packageName": "Magical Dubai",
+          "pdpSeoUrl": "Magical Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002600",
+          "packageName": "dubai hotels",
+          "pdpSeoUrl": "dubai hotels",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002601",
+          "packageName": "dubai no hotels",
+          "pdpSeoUrl": "dubai no hotels",
+          "productId": 11
+        }
+      ],
+      "searchLatitude": 25.2,
+      "searchLongitude": 55.27,
+      "searchString": "Dubai.",
+      "searchType": "CITY",
+      "stateCode": "",
+      "stateName": "Dubai",
+      "themeName": [
+  
+      ]
     },
     {
-       "cityName":"Dubaii",
-       "continentName":"Asia",
-       "countryCode":"AE",
-       "countryName":"United Arab Emirates",
-       "locationCode":"Duba",
-       "pkgnameIdMappingList":[
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002619",
-             "packageName":"Customizable Dubai - Testing HD",
-             "pdpSeoUrl":"Customizable Dubai - Testing HD",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002628",
-             "packageName":"Copy - Customizable Dubai - Testing HD",
-             "pdpSeoUrl":"Customizable Dubai - Testing HD",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002630",
-             "packageName":"Dubai Test Package",
-             "pdpSeoUrl":"Dubai Test Package",
-             "productId":4
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002392",
-             "packageName":"Dubai Canvas Dynapack",
-             "pdpSeoUrl":"Dubai Canvas Dynapack",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002651",
-             "packageName":"Copy - Dubai Canvas Dynapack",
-             "pdpSeoUrl":"Dubai Canvas Dynapack",
-             "productId":11
-          }
-       ],
-       "searchLatitude":25.2408,
-       "searchLongitude":55.2708,
-       "searchString":"Dubaii",
-       "searchType":"CITY",
-       "stateCode":"",
-       "stateName":"United Arab Emirates",
-       "themeName":[
-          
-       ]
+      "cityName": "Dubaii",
+      "continentName": "Asia",
+      "countryCode": "AE",
+      "countryName": "United Arab Emirates",
+      "locationCode": "Duba",
+      "pkgnameIdMappingList": [
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002619",
+          "packageName": "Customizable Dubai - Testing HD",
+          "pdpSeoUrl": "Customizable Dubai - Testing HD",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002628",
+          "packageName": "Copy - Customizable Dubai - Testing HD",
+          "pdpSeoUrl": "Customizable Dubai - Testing HD",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002630",
+          "packageName": "Dubai Test Package",
+          "pdpSeoUrl": "Dubai Test Package",
+          "productId": 4
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002392",
+          "packageName": "Dubai Canvas Dynapack",
+          "pdpSeoUrl": "Dubai Canvas Dynapack",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002651",
+          "packageName": "Copy - Dubai Canvas Dynapack",
+          "pdpSeoUrl": "Dubai Canvas Dynapack",
+          "productId": 11
+        }
+      ],
+      "searchLatitude": 25.2408,
+      "searchLongitude": 55.2708,
+      "searchString": "Dubaii",
+      "searchType": "CITY",
+      "stateCode": "",
+      "stateName": "United Arab Emirates",
+      "themeName": [
+  
+      ]
     },
     {
-       "cityName":"",
-       "continentName":"",
-       "countryCode":"",
-       "countryName":"",
-       "locationCode":"",
-       "pkgnameIdMappingList":[
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002556",
-             "packageName":"Copy - Copy - Hplus Dubai Optional Flight_CANVAS PKG",
-             "pdpSeoUrl":"Hplus Dubai Optional Flight_CANVAS PKG",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002661",
-             "packageName":"Copy - Customizable - My Dubai",
-             "pdpSeoUrl":"Customizable - My Dubai",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002628",
-             "packageName":"Copy - Customizable Dubai - Testing HD",
-             "pdpSeoUrl":"Customizable Dubai - Testing HD",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002358",
-             "packageName":"Copy - Hplus Dubai Optional FLight",
-             "pdpSeoUrl":"Hplus Dubai Optional FLight",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002361",
-             "packageName":"Copy - Hplus Dubai Optional Flight_CANVAS PKG",
-             "pdpSeoUrl":"Hplus Dubai Optional Flight_CANVAS PKG",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002629",
-             "packageName":"Customizable - My Dubai",
-             "pdpSeoUrl":"Customizable - My Dubai",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002665",
-             "packageName":"Customizable 4N Dubai & 2N Abu Dhabi",
-             "pdpSeoUrl":"Customizable - My Dubai",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002619",
-             "packageName":"Customizable Dubai - Testing HD",
-             "pdpSeoUrl":"Customizable Dubai - Testing HD",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002547",
-             "packageName":"Dubai Dynapack",
-             "pdpSeoUrl":"Dubai Dynapack",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002598",
-             "packageName":"Dubai Dynapack",
-             "pdpSeoUrl":"Dubai Dynapack",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002600",
-             "packageName":"dubai hotels",
-             "pdpSeoUrl":"dubai hotels",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002601",
-             "packageName":"dubai no hotels",
-             "pdpSeoUrl":"dubai no hotels",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002069",
-             "packageName":"Hplus Dubai Optional FLight",
-             "pdpSeoUrl":"Hplus Dubai Optional FLight",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002422",
-             "packageName":"LT Dubai GIT",
-             "pdpSeoUrl":"LT Dubai GIT",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002418",
-             "packageName":"Magical Dubai",
-             "pdpSeoUrl":"Magical Dubai",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002651",
-             "packageName":"Copy - Dubai Canvas Dynapack",
-             "pdpSeoUrl":"Dubai Canvas Dynapack",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"Y",
-             "packageId":"PKG002392",
-             "packageName":"Dubai Canvas Dynapack",
-             "pdpSeoUrl":"Dubai Canvas Dynapack",
-             "productId":11
-          },
-          {
-             "isDynamicPackage":"N",
-             "packageId":"PKG002630",
-             "packageName":"Dubai Test Package",
-             "pdpSeoUrl":"Dubai Test Package",
-             "productId":4
-          }
-       ],
-       "searchLatitude":0.0,
-       "searchLongitude":0.0,
-       "searchString":"Copy - Copy - Hplus Dubai Optional Flight_canvas Pkg",
-       "searchType":"Z_NAME",
-       "stateCode":"",
-       "stateName":"",
-       "themeName":[
-          
-       ]
+      "cityName": "",
+      "continentName": "",
+      "countryCode": "",
+      "countryName": "",
+      "locationCode": "",
+      "pkgnameIdMappingList": [
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002556",
+          "packageName": "Copy - Copy - Hplus Dubai Optional Flight_CANVAS PKG",
+          "pdpSeoUrl": "Hplus Dubai Optional Flight_CANVAS PKG",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002661",
+          "packageName": "Copy - Customizable - My Dubai",
+          "pdpSeoUrl": "Customizable - My Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002628",
+          "packageName": "Copy - Customizable Dubai - Testing HD",
+          "pdpSeoUrl": "Customizable Dubai - Testing HD",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002358",
+          "packageName": "Copy - Hplus Dubai Optional FLight",
+          "pdpSeoUrl": "Hplus Dubai Optional FLight",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002361",
+          "packageName": "Copy - Hplus Dubai Optional Flight_CANVAS PKG",
+          "pdpSeoUrl": "Hplus Dubai Optional Flight_CANVAS PKG",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002629",
+          "packageName": "Customizable - My Dubai",
+          "pdpSeoUrl": "Customizable - My Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002665",
+          "packageName": "Customizable 4N Dubai & 2N Abu Dhabi",
+          "pdpSeoUrl": "Customizable - My Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002619",
+          "packageName": "Customizable Dubai - Testing HD",
+          "pdpSeoUrl": "Customizable Dubai - Testing HD",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002558",
+          "packageName": "Dazzling Dubai",
+          "pdpSeoUrl": "Dazzling Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002547",
+          "packageName": "Dubai Dynapack",
+          "pdpSeoUrl": "Dubai Dynapack",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002598",
+          "packageName": "Dubai Dynapack",
+          "pdpSeoUrl": "Dubai Dynapack",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002600",
+          "packageName": "dubai hotels",
+          "pdpSeoUrl": "dubai hotels",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002601",
+          "packageName": "dubai no hotels",
+          "pdpSeoUrl": "dubai no hotels",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002069",
+          "packageName": "Hplus Dubai Optional FLight",
+          "pdpSeoUrl": "Hplus Dubai Optional FLight",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002422",
+          "packageName": "LT Dubai GIT",
+          "pdpSeoUrl": "LT Dubai GIT",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002418",
+          "packageName": "Magical Dubai",
+          "pdpSeoUrl": "Magical Dubai",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002651",
+          "packageName": "Copy - Dubai Canvas Dynapack",
+          "pdpSeoUrl": "Dubai Canvas Dynapack",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "Y",
+          "packageId": "PKG002392",
+          "packageName": "Dubai Canvas Dynapack",
+          "pdpSeoUrl": "Dubai Canvas Dynapack",
+          "productId": 11
+        },
+        {
+          "isDynamicPackage": "N",
+          "packageId": "PKG002630",
+          "packageName": "Dubai Test Package",
+          "pdpSeoUrl": "Dubai Test Package",
+          "productId": 4
+        }
+      ],
+      "searchLatitude": 0.0,
+      "searchLongitude": 0.0,
+      "searchString": "Copy - Copy - Hplus Dubai Optional Flight_canvas Pkg",
+      "searchType": "Z_NAME",
+      "stateCode": "",
+      "stateName": "",
+      "themeName": [
+  
+      ]
     }
- ]
+  ]
 }

@@ -18,4 +18,6 @@ Notes :
 7) npm install --save-dev css-loader
 8) npm install --save-dev style-loader
 9) npm install --save-dev clean-webpack-plugin  // Use to delete existing compress file and add new compress file
-10 npm install css-minimizer-webpack-plugin --save-dev // compress css file into seperate file
+10) npm install css-minimizer-webpack-plugin --save-dev // compress css file into seperate file
+11)  npm i pullstate -g  //use to create store
+12) npm i react-query // use intead of useEffect

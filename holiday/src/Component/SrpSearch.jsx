@@ -2,13 +2,6 @@ import { Link } from "react-router-dom";
 import { useEffect } from "react";
 function SrpSearch(props) {
 
-    useEffect(() => {
-        document.addEventListener('mousedown', handleClickOutside, true);
-        return () => {
-            document.removeEventListener('mousedown', handleClickOutside, true);
-        };
-    }, []);
-    
     return (<>
 
         <div className="container">

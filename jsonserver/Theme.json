@@ -1,0 +1,5027 @@
+{
+    "Package" :[
+     {
+       "cityName": "",
+       "continentName": "",
+       "countryCode": "",
+       "countryName": "",
+       "locationCode": "",
+       "pkgnameIdMappingList": [
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010303",
+           "packageName": "Bali Loaded - Buy 1 Get 1 Free",
+           "pdpSeoUrl": "Bali Loaded - Buy 1 Get 1 Free",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009254",
+           "packageName": "Thailand - Pattaya And Bangkok - Buy 1 Get 1 Free",
+           "pdpSeoUrl": "Thailand - Pattaya And Bangkok - Buy 1 Get 1 Free",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010176",
+           "packageName": "Simply Thailand 5N/6D - Flight Inclusive",
+           "pdpSeoUrl": "Simply Thailand 5N/6D - Flight Inclusive",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010307",
+           "packageName": "Bali Loaded With Split Stay - Buy 1 Get 1 Free",
+           "pdpSeoUrl": "Split Stay Bali Loaded - Buy 1 Get 1 Free",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009684",
+           "packageName": "Mesmerizing Kerala",
+           "pdpSeoUrl": "Mesmerizing Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009787",
+           "packageName": "Customizable Mesmerizing Kerala",
+           "pdpSeoUrl": "Customizable Mesmerizing Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009685",
+           "packageName": "Scenic Kerala",
+           "pdpSeoUrl": "Scenic Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010207",
+           "packageName": "Simply Thailand - Flights Inclusive (3N Pattaya & 3N Bangkok)",
+           "pdpSeoUrl": "Simply Thailand - Flights Inclusive (3N Pattaya & 3N Bangkok)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009687",
+           "packageName": "Vibrant Kerala",
+           "pdpSeoUrl": "Vibrant Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010013",
+           "packageName": "Customizable - Vibrant Kerala",
+           "pdpSeoUrl": "Customizable - Vibrant Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009691",
+           "packageName": "Serene Kerala",
+           "pdpSeoUrl": "Serene Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009694",
+           "packageName": "Tranquil Kerala",
+           "pdpSeoUrl": "Tranquil Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010324",
+           "packageName": "Customizable - Exotic Kerala",
+           "pdpSeoUrl": "Customizable - Exotic Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010522",
+           "packageName": "Simply Thailand - Flights Inclusive (4N Pattaya And 2N Bangkok)",
+           "pdpSeoUrl": "Simply Thailand - Flights Inclusive 4N Pattaya And 2N Bangkok",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003532",
+           "packageName": "Captivating Ladakh",
+           "pdpSeoUrl": "Captivating Ladakh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010524",
+           "packageName": "Simply Thailand Fully Loaded - Flights Inclusive (3N Pattaya And 2N Bangkok)",
+           "pdpSeoUrl": "Simply Thailand Fully Loaded - Flights Inclusive (3N Pattaya And 2N Bangkok)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009784",
+           "packageName": "Heavenly Himachal - Land Only",
+           "pdpSeoUrl": "Heavenly Himachal - Land Only",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010079",
+           "packageName": "Dubai Fully Loaded - Buy 1 Get 1 Free (Deira Area) Including Dubai Shopping Festival",
+           "pdpSeoUrl": "Dubai Fully Loaded - Buy 1 Get 1 Free Deira Area - Winter",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010217",
+           "packageName": "Customizable - My Dubai Split Stay",
+           "pdpSeoUrl": "Customizable - My Dubai Split Stay",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010172",
+           "packageName": "Simply Thailand - Flights Inclusive",
+           "pdpSeoUrl": "Simply Thailand - Flights Inclusive",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010526",
+           "packageName": "Simply Krabi And Phuket - Flights Inclusive",
+           "pdpSeoUrl": "Simply Krabi And Phuket - Flights Inclusive",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010078",
+           "packageName": "Dubai Fully Loaded - Buy 1 Get 1 Free (Al Jadaf Area) Including Dubai Shopping Festival ",
+           "pdpSeoUrl": "Dubai Fully Loaded - Buy 1 Get 1 Free - Al Jadaf Area - Winter",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009698",
+           "packageName": "Luxury - Mesmerizing Kerala",
+           "pdpSeoUrl": "Luxury - Mesmerizing Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010100",
+           "packageName": "Dubai Fully Loaded - Buy 1 Get 1 Free (Al Seef Area) Including Dubai Shopping Festival",
+           "pdpSeoUrl": "Dubai Fully Loaded - Buy 1 Get 1 Free (Al Seef Area) - Winter",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009861",
+           "packageName": "Ultimate Cairns",
+           "pdpSeoUrl": "Ultimate Cairns",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010080",
+           "packageName": "Dubai Fully Loaded - Buy 1 Get 1 Free (Bur Dubai Area) Including Dubai Shopping Festival",
+           "pdpSeoUrl": "Dubai Fully Loaded - Buy 1 Get 1 Free - Bur Dubai Area - Winter",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010318",
+           "packageName": "Singapore - Free & Easy",
+           "pdpSeoUrl": "Singapore - Free and Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003290",
+           "packageName": "Simply Singapore with Sentosa Island - Flight Inclusive",
+           "pdpSeoUrl": "Simply Singapore with Sentosa Island Flight Inclusive",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010223",
+           "packageName": "Customizable - Dubai Delight",
+           "pdpSeoUrl": "Customizable Dubai Delight",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010225",
+           "packageName": "Customizable - Dubai Fully Loaded",
+           "pdpSeoUrl": "Customizable Dubai Fully Loaded",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010529",
+           "packageName": "Abu Dhabi Fully Loaded - Buy 1 Get 1 Free - Summer",
+           "pdpSeoUrl": "Abu Dhabi Fully Loaded - Buy 1 Get 1 Free - Summer",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010159",
+           "packageName": "Dubai Fully Loaded - Buy 1 Get 1 Free (Al Barsha Area) Including Dubai Shopping Festival",
+           "pdpSeoUrl": "Dubai Fully Loaded - Buy 1 Get 1 Free (Al Barsha Area) - Winter",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010489",
+           "packageName": "Romanchak Himachal - Air Inclusive  (Veg Special)",
+           "pdpSeoUrl": "Romanchak Himachal - Air Inclusive  (Veg Special)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009699",
+           "packageName": "Luxury - Vibrant Kerala",
+           "pdpSeoUrl": "Luxury - Vibrant Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010319",
+           "packageName": "Singapore With Sentosa - Free & Easy",
+           "pdpSeoUrl": "Singapore With Sentosa - Free & Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010136",
+           "packageName": "Honeymoon - Himachal Magic Moments",
+           "pdpSeoUrl": "Honeymoon - Himachal Magic Moments",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008878",
+           "packageName": "Magical Ladakh - Air Inclusive ",
+           "pdpSeoUrl": "Magical Ladakh - Air Inclusive",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010343",
+           "packageName": "Simply Oman - Flights Inclusive",
+           "pdpSeoUrl": "Simply Oman - Flights Inclusive",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009859",
+           "packageName": "Explore Cairns",
+           "pdpSeoUrl": "Explore Cairns",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010289",
+           "packageName": "Crazy Deal Thailand - Christmas New Year Special",
+           "pdpSeoUrl": "Crazy Deal Thailand - Christmas New Year Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009855",
+           "packageName": "Visit Gold Coast",
+           "pdpSeoUrl": "Visit Gold Coast",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009868",
+           "packageName": "Experience Andaman with Neil - Air Inclusive",
+           "pdpSeoUrl": "Experience Andaman with Neil - Air Inclusive",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006237",
+           "packageName": "Paris As You Like It!",
+           "pdpSeoUrl": "Paris As You Like It",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009893",
+           "packageName": "Thai Getaway (Winter)",
+           "pdpSeoUrl": "Thai Getaway (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010221",
+           "packageName": "Customizable - Dubai with Abu Dhabi Day Trip",
+           "pdpSeoUrl": "Customizable Dubai with Abu Dhabi Day Trip",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010294",
+           "packageName": "Customizable Dubai Dhamaka",
+           "pdpSeoUrl": "Customizable Dubai Dhamaka",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010165",
+           "packageName": "Abu Dhabi Fully Loaded - Buy 1 Get 1 Free - Winter",
+           "pdpSeoUrl": "Abu Dhabi Fully Loaded - Buy 1 Get 1 Free - Winter",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009378",
+           "packageName": "Assam and Meghalaya - Air Inclusive",
+           "pdpSeoUrl": "Assam and Meghalaya",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010462",
+           "packageName": "Spiritual Saudi Arabia",
+           "pdpSeoUrl": "Spiritual Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009852",
+           "packageName": "Amazing Sydney",
+           "pdpSeoUrl": "Amazing Sydney",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009856",
+           "packageName": "Classic Melbourne",
+           "pdpSeoUrl": "Classic Melbourne",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008869",
+           "packageName": "Charismatic Ladakh - Air Inclusive",
+           "pdpSeoUrl": "Charismatic Ladakh - Air Inclusive",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009048",
+           "packageName": "Crazy Deal Dubai - 5N Including Dubai Shopping Festival",
+           "pdpSeoUrl": "Crazy Deal - Dubai 5N Summer",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010302",
+           "packageName": "Crazy Deal Thailand Fully Loaded - Christmas and New Year Special",
+           "pdpSeoUrl": "Crazy Deal Thailand Fully Loaded - Christmas and New Year Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010423",
+           "packageName": "Premium - Experience Andaman with Neil - Air Inclusive",
+           "pdpSeoUrl": "Premium - Experience Andaman with Neil - Air Inclusive",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010444",
+           "packageName": "Simply Vietnam Fully Loaded - Flights Inclusive",
+           "pdpSeoUrl": "Simply Vietnam Fully Loaded - Flights Inclusive",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010490",
+           "packageName": "Romanchak Kashmir - Air Inclusive (Veg Special)",
+           "pdpSeoUrl": "Romanchak Kashmir - Air Inclusive (Veg Special)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010200",
+           "packageName": "Honeymoon - Magic Moments Bhutan",
+           "pdpSeoUrl": "Honeymoon - Magic Moments Bhutan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010227",
+           "packageName": "Customizable - Dubai Childrens Special",
+           "pdpSeoUrl": "Customizable Dubai Childrens Special",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010486",
+           "packageName": "Romanchak Ladakh  - Air Inclusive  (Veg Special)",
+           "pdpSeoUrl": "Romanchak Ladakh  - Air Inclusive  (Veg Special)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009723",
+           "packageName": "Crazy Deal Bali - Villa Special",
+           "pdpSeoUrl": "Crazy Deal Bali - Villa Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010322",
+           "packageName": "Glamorous Singapore",
+           "pdpSeoUrl": "Glamorous Singapore",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009857",
+           "packageName": "Melbourne at its Best",
+           "pdpSeoUrl": "Melbourne at its Best",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010085",
+           "packageName": "Crazy Deal Singapore With Sentosa Island",
+           "pdpSeoUrl": "Crazy Deal Singapore With Sentosa Island",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010285",
+           "packageName": "Crazy Deal Krabi And Phuket - Christmas New Year Special",
+           "pdpSeoUrl": "Crazy Deal Krabi And Phuket - Christmas New Year Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010220",
+           "packageName": "Customizable - Dubai 2.0",
+           "pdpSeoUrl": "Customizable Dubai 2 Point 0",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009854",
+           "packageName": "Charms of Sydney",
+           "pdpSeoUrl": "Charms of Sydney",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010460",
+           "packageName": "Glamorous Riyadh",
+           "pdpSeoUrl": "Glamorous Riyadh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009693",
+           "packageName": "Crazy Deal Bali With Water Sports",
+           "pdpSeoUrl": "Crazy Deal Bali With Water Sport Activities",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010092",
+           "packageName": "Crazy Deal Singapore - Park Special",
+           "pdpSeoUrl": "Crazy Deal Singapore - Park Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010377",
+           "packageName": "Simply 3N Dubai With 2N Abu Dhabi - Flights Inclusive",
+           "pdpSeoUrl": "Simply 3N Dubai With 2N Abu Dhabi - Flights Inclusive",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010323",
+           "packageName": "Glamorous Singapore With Sentosa",
+           "pdpSeoUrl": "Glamorous Singapore With Sentosa",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010212",
+           "packageName": "Honeymoon - Charming Moments In Bhutan",
+           "pdpSeoUrl": "Honeymoon - Charming Moments In Bhutan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009056",
+           "packageName": "Crazy Deal - Dubai Fully Loaded - 5N Including Dubai Shopping Festival",
+           "pdpSeoUrl": "Crazy Deal - Dubai Fully Loaded 5N - Summer",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010456",
+           "packageName": "Glamorous Jeddah",
+           "pdpSeoUrl": "Glamorous Jeddah",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009947",
+           "packageName": "Crazy Deal Bali Fully Loaded - 3 Star (Winter)",
+           "pdpSeoUrl": "Crazy Deal Bali Fully Loaded - 3 Star (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010120",
+           "packageName": "Crazy Deal Singapore - Universal + Sea Aquarium",
+           "pdpSeoUrl": "Crazy Deal Singapore - Universal With Sea Aquarium",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009696",
+           "packageName": "Crazy Deal Bali Fully Loaded - 4 star (Winter)",
+           "pdpSeoUrl": "Crazy Deal Bali Fully Loaded - 4 star (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009915",
+           "packageName": "Dubai Getaway with 3 Nights free stay on Costa Cruise*",
+           "pdpSeoUrl": "Dubai Getaway (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009417",
+           "packageName": "Crazy Deal - Krabi And Phuket",
+           "pdpSeoUrl": "Crazy Deal - Krabi And Phuket",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009061",
+           "packageName": "Crazy Deal - Dubai Fully Loaded - 6N Including Dubai Shopping Festival",
+           "pdpSeoUrl": "Crazy Deal Dubai Fully Loaded - 6N",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG002559",
+           "packageName": "Breathtaking Bhutan - Air Inclusive",
+           "pdpSeoUrl": "Breathtaking Bhutan",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010434",
+           "packageName": "Simply 4N Dubai With 2N Abu Dhabi - Flights Inclusive",
+           "pdpSeoUrl": "Simply 4N Dubai With 2N Abu Dhabi - Flights Inclusive",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010365",
+           "packageName": "Crazy Deal Dubai - 5N Christmas And New Year Special",
+           "pdpSeoUrl": "Crazy Deal Dubai - 5N Christmas And New Year Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009885",
+           "packageName": "Magical Dubai (Winter)",
+           "pdpSeoUrl": "Magical Dubai (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009878",
+           "packageName": "Singapore Getaway (Winter)",
+           "pdpSeoUrl": "Singapore Getaway (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010333",
+           "packageName": "Dubai Getaway - Dubai Shopping Festival Special",
+           "pdpSeoUrl": "Dubai Getaway - Dubai Shopping Festival Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010202",
+           "packageName": "Honeymoon - Amazing Moments in Bhutan",
+           "pdpSeoUrl": "Honeymoon - Amazing Moments in Bhutan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006665",
+           "packageName": "Crazy Deal Mauritius - Hotel Manisa ",
+           "pdpSeoUrl": "Crazy Deal Mauritius - Hotel Manisa ",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010311",
+           "packageName": "Crazy Deal Bali Fully Loaded - 5N",
+           "pdpSeoUrl": "Crazy Deal Bali Fully Loaded - 5N",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010366",
+           "packageName": "Crazy Deal Dubai Fully Loaded - 5N Christmas And New Year Special",
+           "pdpSeoUrl": "Crazy Deal Dubai Fully Loaded - 5N Christmas And New Year Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010376",
+           "packageName": "Glimpses Of Kenya",
+           "pdpSeoUrl": "Glimpses Of Kenya",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009907",
+           "packageName": "Vietnam Extravaganza",
+           "pdpSeoUrl": "Vietnam Extravaganza",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010335",
+           "packageName": "Magical Dubai - Dubai Shopping Festival",
+           "pdpSeoUrl": "Magical Dubai - Dubai Shopping Festival",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010194",
+           "packageName": "Crazy Deal Mauritius – Tarisa (3*)/Tamassa (4*)",
+           "pdpSeoUrl": "Crazy Deal Mauritius 3 Star Tarisa And 4 Star Tamassa",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009882",
+           "packageName": "Asian Dhamaka (Winter)",
+           "pdpSeoUrl": "Asian Dhamaka (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009884",
+           "packageName": "Magical Dubai With Lapita (Winter)",
+           "pdpSeoUrl": "Magical Dubai With Lapita (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009886",
+           "packageName": "Magical Abu Dhabi With Dubai",
+           "pdpSeoUrl": "Magical Dubai With Yas Island (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010171",
+           "packageName": "Almaty Delights",
+           "pdpSeoUrl": "Almaty Delights",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010203",
+           "packageName": "Crazy Deal Mauritius - Hotel Veranda Tamarin",
+           "pdpSeoUrl": "Crazy Deal Mauritius - Hotel Veranda Tamarin",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010114",
+           "packageName": "Royal Moments - Rajasthan Honeymoon Special",
+           "pdpSeoUrl": "Royal Moments - Rajasthan Honeymoon Special",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010367",
+           "packageName": "Dubai Getaway with Oman Delight",
+           "pdpSeoUrl": "Dubai Getaway with Oman Delight",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009874",
+           "packageName": "Egyptian Dhamaka (Winter)",
+           "pdpSeoUrl": "Egyptian Dhamaka (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010361",
+           "packageName": "Magical Abu Dhabi With Dubai - Dubai Shopping Festival",
+           "pdpSeoUrl": "Magical Dubai With Yas Island - Dubai Shopping Festival",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010338",
+           "packageName": "Magical Dubai with La Pita - Dubai Shopping Festival",
+           "pdpSeoUrl": "Magical Dubai with La Pita - Dubai Shopping Festival",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010341",
+           "packageName": "Arabian Extravaganza",
+           "pdpSeoUrl": "Arabian Extravaganza",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009880",
+           "packageName": "Asian Delights (Winter)",
+           "pdpSeoUrl": "Asian Delights (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010520",
+           "packageName": "Manmohak Asia - Singapore And Malaysia - Gujrati Special",
+           "pdpSeoUrl": "Manmohak Asia Singapore and Malaysia Gujrati Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009927",
+           "packageName": "Asia Just For You (Winter)",
+           "pdpSeoUrl": "Asia Just For You (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009931",
+           "packageName": "Asian Dhamaka With Genting Dream Cruise (2 Nights)",
+           "pdpSeoUrl": "Asian Dhamaka With Genting Dream Cruise",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009873",
+           "packageName": "Delightful Egypt (Winter)",
+           "pdpSeoUrl": "Delightful Egypt (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010205",
+           "packageName": "Best Of Jordan",
+           "pdpSeoUrl": "Best Of Jordan",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010466",
+           "packageName": "Riyadh Free & Easy",
+           "pdpSeoUrl": "Riyadh Free & Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009938",
+           "packageName": "Asian Dhamaka With Genting Dream Cruise (3 Nights)",
+           "pdpSeoUrl": "Asian Dhamaka With Genting Dream Cruise (3 Nights)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010360",
+           "packageName": "Grand Bargain Turkiye",
+           "pdpSeoUrl": "Grand Bargain Turkiye",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009940",
+           "packageName": "Asian Delights With Genting Dream Cruise (2 Nights)",
+           "pdpSeoUrl": "Asian Delights With Genting Dream Cruise (2 Nights)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010523",
+           "packageName": "Manmohak Asia With Cruise - Gujrati Special",
+           "pdpSeoUrl": "Manmohak Asia With Cruise - Gujrati Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010525",
+           "packageName": "Romanchak Asia - Gujrati Special",
+           "pdpSeoUrl": "Romanchak Asia - Gujrati Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006440",
+           "packageName": "Italian Dhamaka (Summer 2023)",
+           "pdpSeoUrl": "Italian Dhamaka",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000011",
+           "packageName": "East European Dhamaka (Summer 2023)",
+           "pdpSeoUrl": "East European Dhamaka",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001979",
+           "packageName": "European Trio (Summer 2023)",
+           "pdpSeoUrl": "European Trio",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009928",
+           "packageName": "Asian Extravaganza (Winter)",
+           "pdpSeoUrl": "Asian Extravaganza (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010473",
+           "packageName": "The Young Explorers K Wave - Seoul",
+           "pdpSeoUrl": "The Young Explorers K Wave - Seoul",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003356",
+           "packageName": "Spanish Dhamaka (Summer 2023)",
+           "pdpSeoUrl": "Spanish Dhamaka",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010118",
+           "packageName": "Vibrant Vietnam And Cambodia",
+           "pdpSeoUrl": "Winter Vibrant Vietnam And Cambodia",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010072",
+           "packageName": "Turkish Extravaganza (Winter)",
+           "pdpSeoUrl": "Turkish Extravaganza (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009860",
+           "packageName": "Europe for All (Winter)",
+           "pdpSeoUrl": "Europe for All",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010430",
+           "packageName": "Europe for All (Summer 2023)",
+           "pdpSeoUrl": "Europe for All (Summer)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008901",
+           "packageName": "Turkish Extravaganza (Summer)",
+           "pdpSeoUrl": "Turkish Extravaganza (Summer)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009946",
+           "packageName": "Kenyan Pride",
+           "pdpSeoUrl": "Kenyan Pride",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010510",
+           "packageName": "Jeddah Free and Easy",
+           "pdpSeoUrl": "Jeddah Free and Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010507",
+           "packageName": "Wonders Of Saudi Arabia",
+           "pdpSeoUrl": "Wonders Of Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009877",
+           "packageName": "Grand Bargain Tour of Egypt with Hurghada (Winter)",
+           "pdpSeoUrl": "Grand Bargain Tour of Egypt with Hurghada (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000036",
+           "packageName": "Swiss French Magic With Mediterranean Cruise (Summer 2023)",
+           "pdpSeoUrl": "Swiss French Magic With Mediterranean Cruise ",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010432",
+           "packageName": "Swiss French Magic (Summer 2023)",
+           "pdpSeoUrl": "Swiss French Magic Summer",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009864",
+           "packageName": "Swiss French Magic (Winter)",
+           "pdpSeoUrl": "Swiss French Magic (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG004841",
+           "packageName": "Italian Delights (Summer 2023)",
+           "pdpSeoUrl": "Italian Delights",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003199",
+           "packageName": "UK Delights (Summer 2023)",
+           "pdpSeoUrl": "United Kingdom Delights",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009939",
+           "packageName": "South African Grandeur (Winter)",
+           "pdpSeoUrl": "South African Grandeur (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010491",
+           "packageName": "Swiss French Magic With 4Nts Mediterranean Cruise (Summer 2023)",
+           "pdpSeoUrl": "Swiss French Magic With 4Nts Mediterranean Cruise (Summer 2023)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000041",
+           "packageName": "Super Budget Tour Of Europe (Summer 2023)",
+           "pdpSeoUrl": "Super Budget Tour Of Europe",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010494",
+           "packageName": "Highlights of Greece with 3Nts Celestyal Cruise (Summer 2023)",
+           "pdpSeoUrl": "Highlights of Greece with 3Nts Celestyal Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010474",
+           "packageName": "The Young Explorers K Wave - Seoul & Busan",
+           "pdpSeoUrl": "The Young Explorers K Wave - Seoul & Busan",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010431",
+           "packageName": "Fusion Europe (Summer 2023)",
+           "pdpSeoUrl": "Fusion Europe (Summer 2023)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009867",
+           "packageName": "Fusion Europe - Winter",
+           "pdpSeoUrl": "Fusion Europe - Winter",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010317",
+           "packageName": "French and Italian Carnival Fest",
+           "pdpSeoUrl": "French and Italian Carnival Fest",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010131",
+           "packageName": "Kenyan Discovery (Winter)",
+           "pdpSeoUrl": "Kenyan Discovery (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010464",
+           "packageName": "Scenic Saudi Arabia",
+           "pdpSeoUrl": "Scenic Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010417",
+           "packageName": "Enchanting East Europe (Summer 2023)",
+           "pdpSeoUrl": "Enchanting East Europe ",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010506",
+           "packageName": "Classic Saudi Arabia",
+           "pdpSeoUrl": "Classic Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010505",
+           "packageName": "Delights Of Saudi Arabia",
+           "pdpSeoUrl": "Delights Of Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010382",
+           "packageName": "Tanzanian Safari",
+           "pdpSeoUrl": "Tanzanian Safari",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001908",
+           "packageName": "Highlights of Europe (Summer 2023)",
+           "pdpSeoUrl": "Highlights of Europe",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009866",
+           "packageName": "Sensational Europe (Winter)",
+           "pdpSeoUrl": "Sensational Europe (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010420",
+           "packageName": "Sensational Europe (Summer 2023)",
+           "pdpSeoUrl": "Sensational Europe (Summer 2023)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010427",
+           "packageName": "Sensational Europe With 03 Nights Of Mediterranean Cruise - (Summer 2023)",
+           "pdpSeoUrl": "Sensational Europe With 03 Nights Of Mediterranean Cruise - (Summer 2023)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009923",
+           "packageName": "South African Grandeur with Add on Kenya (Winter)",
+           "pdpSeoUrl": "South African Grandeur with Add on Kenya (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009894",
+           "packageName": "Finland Delights - Magical Santaland",
+           "pdpSeoUrl": "Finland Delights - Magical Santaland",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010418",
+           "packageName": "Scandinavian Extravaganza (Summer 2023)",
+           "pdpSeoUrl": "Scandinavian Extravaganza Summer",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010438",
+           "packageName": "UK Delights With Add On Ireland (Summer 2023)",
+           "pdpSeoUrl": "UK Delights With Add On Ireland Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010497",
+           "packageName": "Sensational Europe With 03 Nights Costa Smeralda Cruise - (Summer 2023)",
+           "pdpSeoUrl": "Sensational Europe With 03 Nights Costa Smeralda Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010498",
+           "packageName": "Sensational Europe With 04 Nights Of Mediterranean Cruise - (Summer 2023)",
+           "pdpSeoUrl": "Sensational Europe With 04 Nights Of Mediterranean Cruise - Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006447",
+           "packageName": "Scandinavian Extravaganza (Winter)",
+           "pdpSeoUrl": "Scandinavian Extravaganza",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010467",
+           "packageName": "Highlights Of Saudi Arabia",
+           "pdpSeoUrl": "Highlights Of Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009950",
+           "packageName": "Wonders of Kenya and Tanzania",
+           "pdpSeoUrl": "Wonders of Kenya and Tanzania",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010133",
+           "packageName": "South African Grandeur With Kenyan Dhamaka (Winter)",
+           "pdpSeoUrl": "South African Grandeur With Kenyan Dhamaka Winter",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010419",
+           "packageName": "Grand Bargain Tour Of Europe With 03 Nights Mediterranean Cruise (Summer 2023)",
+           "pdpSeoUrl": "Grand Bargain Tour Of Europe With 03 Nights Mediterranean Cruise - Summer",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010425",
+           "packageName": "Grand Bargain Tour Of Europe With Versailles And Montmartre - (Summer 2023)",
+           "pdpSeoUrl": "Grand Bargain Tour Of Europe With Versailles And Montmartre",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010426",
+           "packageName": "Grand Bargain Tour Of Europe With Disneyland - (Summer 2023)",
+           "pdpSeoUrl": "Grand Bargain Tour Of Europe With Disneyland",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009865",
+           "packageName": "Grand Bargain Tour Of Europe with Disneyland Paris (Winter)",
+           "pdpSeoUrl": "Grand Bargain Tour Of Europe with Disneyland (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010511",
+           "packageName": "Majestic Saudi Arabia",
+           "pdpSeoUrl": "Majestic Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010493",
+           "packageName": "Grand Bargain Tour Of Europe With 3 Nights Costa Smeralda Cruise (Summer 2023)",
+           "pdpSeoUrl": "Grand Bargain Tour Of Europe With 3 Nights Costa Smeralda Cruise – Summer",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010499",
+           "packageName": "Grand Bargain Tour Of Europe With 04 Nights Mediterranean Cruise (Summer 2023)",
+           "pdpSeoUrl": "Grand Bargain Tour Of Europe With 04 Nights Mediterranean Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010012",
+           "packageName": "Australian Extravaganza (Winter)",
+           "pdpSeoUrl": "Australian Extravaganza (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010140",
+           "packageName": "South African Grandeur With Kenyan Discovery (Winter)",
+           "pdpSeoUrl": "South African Grandeur With Kenyan Discovery Winter",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010443",
+           "packageName": "Arctic Delights",
+           "pdpSeoUrl": "Arctic Delights",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010018",
+           "packageName": "The Spirit Of Australia (Winter)",
+           "pdpSeoUrl": "The Spirit Of Australia Winter",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010503",
+           "packageName": "Discover Saudi Arabia",
+           "pdpSeoUrl": "Discover Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010449",
+           "packageName": "Marvels Of Saudi Arabia",
+           "pdpSeoUrl": "Marvels Of Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010160",
+           "packageName": "South American Trio with Rio Carnival",
+           "pdpSeoUrl": "South American Trio with Rio Carnival",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010468",
+           "packageName": "Best Of Saudi Arabia",
+           "pdpSeoUrl": "Best Of Saudi Arabia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010155",
+           "packageName": "South American Delights with Rio Carnival",
+           "pdpSeoUrl": "South American Delights with Rio Carnival",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009091",
+           "packageName": "The Grand Dragon Special - Private Tour",
+           "pdpSeoUrl": "The Grand Dragon Ladakh Special 6N - Premium",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009244",
+           "packageName": "Goa - Calangute Towers",
+           "pdpSeoUrl": "Goa - Calangute Towers",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009164",
+           "packageName": "Goa -ZiP By Spree Hotels Hyde",
+           "pdpSeoUrl": "Goa -ZiP By Spree Hotels Hyde",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009286",
+           "packageName": "Goa - Kyriad Candolim Goa by OTHPL",
+           "pdpSeoUrl": "Goa - Kyriad Candolim Goa by OTHPL",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009288",
+           "packageName": "Goa - Kyriad Prestige Calangute Goa by OTHPL",
+           "pdpSeoUrl": "Goa - Kyriad Prestige Calangute Goa by OTHPL",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009245",
+           "packageName": "Goa - White Woods Resort and Spa",
+           "pdpSeoUrl": "Goa - White Woods Resort and Spa",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009246",
+           "packageName": "Goa - Stone Woods Resort and Spa",
+           "pdpSeoUrl": "Goa - Stone Woods Resort and Spa",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010188",
+           "packageName": "Goa - Grandeur De Sanchi",
+           "pdpSeoUrl": "Goa - Grandeur De Sanchi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010191",
+           "packageName": "Customizable Goa ",
+           "pdpSeoUrl": "Customizable Goa ",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010244",
+           "packageName": "Customizable - Weekend Getaway to Ooty Ex Coimbatore",
+           "pdpSeoUrl": "Customizable - Weekend Getaway to Ooty Ex Coimbatore",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010346",
+           "packageName": "Goa - Jasminn AM Hotel Kollection",
+           "pdpSeoUrl": "Goa - Jasminn AM Hotel Kollection",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010243",
+           "packageName": "Customizable - Weekend Getaway to Madurai With Rameshwaram Ex Madurai",
+           "pdpSeoUrl": "Customizable - Weekend Getaway to Madurai With Rameshwaram Ex Madurai",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003000",
+           "packageName": "Uttar Pradesh - Varanasi Getaway",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010513",
+           "packageName": "Uttar Pradesh - Varanasi Getaway with Flights",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi Getaway with Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009177",
+           "packageName": "Goa - Crystal by Morpho Goa Villagio Resort",
+           "pdpSeoUrl": "Goa - Crystal by Morpho Goa Villagio Resort",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010330",
+           "packageName": "Goa - Koko Maya By Stonewoods Morjim",
+           "pdpSeoUrl": "Goa - Koko Maya By Stonewoods Morjim",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010353",
+           "packageName": "Goa - Red Fox Hotel Morjim",
+           "pdpSeoUrl": "Goa - Red Fox Hotel Morjim",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008988",
+           "packageName": "Kerala - Quick Kochi",
+           "pdpSeoUrl": "Kerala - Quick Kochi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003866",
+           "packageName": "Escape to Hyderabad with Ramoji",
+           "pdpSeoUrl": "Escape to Hyderabad with Ramoji",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009596",
+           "packageName": "Bali Free And Easy - Kuta",
+           "pdpSeoUrl": "Bali Free And Easy - Kuta",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008940",
+           "packageName": "Goa - Resort De Alturas Candolim",
+           "pdpSeoUrl": "Goa - Resort De Alturas Candolim",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010273",
+           "packageName": "Goa - Neelams The Grand Hotel Calangute",
+           "pdpSeoUrl": "Goa - Neelams The Grand Hotel Calangute",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010276",
+           "packageName": "Goa - FIRST HALT Calangute",
+           "pdpSeoUrl": "Goa - FIRST HALT Calangute",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009012",
+           "packageName": "Kerala - Munnar Calling",
+           "pdpSeoUrl": "Kerala - Munnar Calling",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006481",
+           "packageName": "Himachal - Experience Of Manali By Volvo - Standard",
+           "pdpSeoUrl": "Himachal - Experience Of Manali By Volvo - Standard",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010347",
+           "packageName": "Goa - Anamiva AM Hotel Kollection",
+           "pdpSeoUrl": "Goa - Anamiva AM Hotel Kollection",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010344",
+           "packageName": "Goa - Sibaya Beach Resort Morjim Beach",
+           "pdpSeoUrl": "Goa - Sibaya Beach Resort Morjim Beach",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008995",
+           "packageName": "Kerala - Backwaters in Kerala",
+           "pdpSeoUrl": "Kerala - Backwaters in Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009257",
+           "packageName": "Kerala At Ease",
+           "pdpSeoUrl": "Kerala At Ease",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010238",
+           "packageName": "Customizable Kasol Ex Chandigarh - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Kasol Ex Chandigarh - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009198",
+           "packageName": "Hills Of Kerala",
+           "pdpSeoUrl": "Hills Of Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006356",
+           "packageName": "Uttar Pradesh - Varanasi and Prayagraj Getaway",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi and Prayagraj Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006357",
+           "packageName": "Uttar Pradesh - Varanasi Getaway with Prayagraj Trip",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi Getaway with Prayagraj Trip",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010514",
+           "packageName": "Uttar Pradesh - Varanasi and Prayagraj Getaway with Flights",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi and Prayagraj Getaway with Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010515",
+           "packageName": "Uttar Pradesh - Varanasi Getaway with Prayagraj Trip with Flights",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi Getaway with Prayagraj Trip with Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010216",
+           "packageName": "Unique stays At Naukuchiatal",
+           "pdpSeoUrl": "Naukuchiatal",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010237",
+           "packageName": "Customizable Sangla Ex Chandigarh  - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Sangla Ex Chandigarh  - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010350",
+           "packageName": "Goa -  Lemon Tree Hotel Candolim",
+           "pdpSeoUrl": "Goa -  Lemon Tree Hotel Candolim",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006486",
+           "packageName": "Himachal - Experience Of Manali By Volvo - Deluxe",
+           "pdpSeoUrl": "Himachal - Experience Of Manali By Volvo - Deluxe",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010218",
+           "packageName": "Unique stays At Satkhol",
+           "pdpSeoUrl": "Unique stays At Satkhol",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009660",
+           "packageName": "Simply Kerala",
+           "pdpSeoUrl": "Simply Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003870",
+           "packageName": "Andhra Pradesh - Serene Rajahmundry with Dindi",
+           "pdpSeoUrl": "Andhra Pradesh - Serene Rajahmundry with Dindi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010331",
+           "packageName": "Goa - Stone Wood Beach Resort Vagator Beach",
+           "pdpSeoUrl": "Goa - Stone Wood Beach Resort Vagator Beach",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010340",
+           "packageName": "Goa - Golden Tulip Grand View Resort Candolim Goa",
+           "pdpSeoUrl": "Goa - Golden Tulip Grand View Resort Candolim Goa",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010224",
+           "packageName": "Customizable Shimla Chail Kufri Ex Chandigarh  - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Shimla Chail Kufri Ex Chandigarh  - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010232",
+           "packageName": "Customizable Kufri Ex Delhi  - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Kufri Ex Delhi  - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009585",
+           "packageName": "Bali Free and Easy - Ubud",
+           "pdpSeoUrl": "Bali Free and Easy - Ubud",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010236",
+           "packageName": "Customizable Kufri Ex Dehradun - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Kufri Ex Dehradun - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009522",
+           "packageName": "Uttarakhand - Garhwal Delight",
+           "pdpSeoUrl": "Uttarakhand - Garhwal Delight",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009523",
+           "packageName": "Uttarakhand - Mussoorie With Rishikesh",
+           "pdpSeoUrl": "Uttarakhand - Mussoorie With Rishikesh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006137",
+           "packageName": "Uttarakhand - Nainital with Ranikhet",
+           "pdpSeoUrl": "Uttarakhand - Nainital with Ranikhet",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010214",
+           "packageName": "Unique stays At Mashobra",
+           "pdpSeoUrl": "Unique stays At Mashobra",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010226",
+           "packageName": "Customizable Shimla Chail Kufri Ex Delhi  - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Shimla Chail Kufri Ex Delhi  - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010275",
+           "packageName": "Goa - Nanu Beach Resort and Spa",
+           "pdpSeoUrl": "Goa - Nanu Beach Resort and Spa",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010336",
+           "packageName": "Goa - Fortune Resort Benaulim Goa",
+           "pdpSeoUrl": "Goa - Fortune Resort Benaulim Goa",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010339",
+           "packageName": "Goa -Park Inn by Radisson Goa Candolim",
+           "pdpSeoUrl": "Goa -Park Inn by Radisson Goa Candolim",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009530",
+           "packageName": "Uttarakhand - Nanital With Excursion Almora Or Mukteshwar",
+           "pdpSeoUrl": "Uttarakhand - Nanital With Excursion Almora Or Mukteshwar",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010270",
+           "packageName": "Customizable Uttarakhand - Rishikesh with Excursion Tehri Or Neelkhanth",
+           "pdpSeoUrl": "Customizable Uttarakhand - Rishikesh with Excursion Tehri Or Neelkhanth",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009835",
+           "packageName": "Malaysian Dream",
+           "pdpSeoUrl": "Malaysian Dream",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010228",
+           "packageName": "Customizable Manali Ex Chandigarh  - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Manali Ex Chandigarh  - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010351",
+           "packageName": "Goa -  Lazy Lagoon Baga A Lemon Tree Resort",
+           "pdpSeoUrl": "Goa -  Lazy Lagoon Baga A Lemon Tree Resort",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG000677",
+           "packageName": "Customizable Uttarakhand - Corbett with Mussoorie",
+           "pdpSeoUrl": "Customizable Uttarakhand - Corbett with Mussoorie",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006171",
+           "packageName": "Uttarakhand - Corbett With Mussoorie 3N",
+           "pdpSeoUrl": "Uttarakhand - Corbett With Mussoorie 3N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000467",
+           "packageName": "Andaman Getaway",
+           "pdpSeoUrl": "Andaman Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010253",
+           "packageName": "Andaman Getaway with Flexi Flights",
+           "pdpSeoUrl": "Andaman Getaway with Flexi Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009202",
+           "packageName": "Remarkable Kerala",
+           "pdpSeoUrl": "Remarkable Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003604",
+           "packageName": "Bhubaneswar And Puri",
+           "pdpSeoUrl": "Bhubaneswar And Puri",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010267",
+           "packageName": "Customizable Uttarakhand - Nainital with Ranikhet",
+           "pdpSeoUrl": "Customizable Uttarakhand - Nainital with Ranikhet",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010234",
+           "packageName": "Customizable Nahan Ex Chandigarh - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Nahan Ex Chandigarh - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010266",
+           "packageName": "Customizable Uttarakhand - Nainital with Corbett",
+           "pdpSeoUrl": "Customizable Uttarakhand - Nainital with Corbett",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009834",
+           "packageName": "Malaysia - Amazing Sunway Lagoon ",
+           "pdpSeoUrl": "Malaysia - Amazing Sunway Lagoon ",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009665",
+           "packageName": "Phuket - Buy 1 Get 1 Free",
+           "pdpSeoUrl": "Phuket - Buy 1 Get 1 Free",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003874",
+           "packageName": "Andhra Pradesh - Majestic Vizag",
+           "pdpSeoUrl": "Andhra Pradesh - Majestic Vizag",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010268",
+           "packageName": "Customizable Uttarakhand - Mussoorie with Excursion Dhanaulti or Chakrata",
+           "pdpSeoUrl": "Customizable Uttarakhand - Mussoorie with Excursion Dhanaulti or Chakrata",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010222",
+           "packageName": "Customizable Dharmashala - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Dharmashala - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003957",
+           "packageName": "Malaysia Fully Loaded",
+           "pdpSeoUrl": "Malaysia Fully Loaded",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010269",
+           "packageName": "Customizable Uttarakhand - Nainital with Excursion Almora or Mukteshwar",
+           "pdpSeoUrl": "Customizable Uttarakhand - Nainital with Excursion Almora or Mukteshwar",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010103",
+           "packageName": "Blend Of Mughal and Rajput Culture",
+           "pdpSeoUrl": "Blend Of Mughal and Rajput Culture (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010231",
+           "packageName": "Customizable Kullu Ex Chandigarh  - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Kullu Ex Chandigarh  - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009652",
+           "packageName": "Luxury - Kerala - Quick Kochi",
+           "pdpSeoUrl": "Luxury - Kerala - Quick Kochi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010116",
+           "packageName": "Magnificient Udaipur and Kumbhalgarh ",
+           "pdpSeoUrl": "Magnificient Udaipur and Kumbhalgarh (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009788",
+           "packageName": "Customizable - Enchanting Kerala",
+           "pdpSeoUrl": "Customizable - Enchanting Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010230",
+           "packageName": "Customizable Sangla with Excursion to Chitkul Ex Chandigarh  - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Sangla with Excursion to Chitkul Ex Chandigarh  - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010249",
+           "packageName": "Customizable - Weekend Getaway to Pondicherry With Chennai Ex Chennai",
+           "pdpSeoUrl": "Customizable - Weekend Getaway to Pondicherry With Chennai Ex Chennai",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010240",
+           "packageName": "Customizable Mashobra Ex Chandigarh - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Mashobra Ex Chandigarh - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010380",
+           "packageName": "Hanoi Free & Easy",
+           "pdpSeoUrl": "Hanoi Free & Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010390",
+           "packageName": "Saigon Free And Easy",
+           "pdpSeoUrl": "Saigon Free And Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001437",
+           "packageName": "Short Escape to Nepal",
+           "pdpSeoUrl": "Short Escape to Nepal",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009178",
+           "packageName": "Luxury -  Zuri White Sands Goa Resort and Casino",
+           "pdpSeoUrl": "Luxury -  Zuri White Sands Goa Resort and Casino",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000857",
+           "packageName": "Tirupati Getaway",
+           "pdpSeoUrl": "Tirupati Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010315",
+           "packageName": "Uttarakhand - Snow Experience Chopta Valley",
+           "pdpSeoUrl": "Uttarakhand - Snow Experience Chopta Valley",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001916",
+           "packageName": "Goa -  Lemon Tree Amarante Beach Resort",
+           "pdpSeoUrl": "Goa -  Lemon Tree Amarante Beach Resort",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009469",
+           "packageName": "Divine Kathmandu",
+           "pdpSeoUrl": "Divine Kathmandu",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010241",
+           "packageName": "Customizable - Weekend Getaway to Coorg Ex Bangalore",
+           "pdpSeoUrl": "Customizable - Weekend Getaway to Coorg Ex Bangalore",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005580",
+           "packageName": "Wow Andaman",
+           "pdpSeoUrl": "Wow Andaman",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006435",
+           "packageName": "Himachal - Manali - Chandigarh - Ex Chandigarh",
+           "pdpSeoUrl": "Himachal - Manali - Chandigarh - Ex Chandigarh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010254",
+           "packageName": "Wow Andaman with Flexi Flights",
+           "pdpSeoUrl": "Wow Andaman with Flexi Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009594",
+           "packageName": "Bali Free And Easy - Seminyak",
+           "pdpSeoUrl": "Bali Free And Easy - Seminyak",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003894",
+           "packageName": "Hyderabad With Ramoji And Srisailam",
+           "pdpSeoUrl": "Hyderabad With Ramoji And Srisailam",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003612",
+           "packageName": "Scenic Odisha",
+           "pdpSeoUrl": "Scenic Odisha",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010182",
+           "packageName": "Andaman Buy 1 Get 1 Free",
+           "pdpSeoUrl": "Andaman Buy 1 Get 1 Free",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010046",
+           "packageName": "Customizable Bali",
+           "pdpSeoUrl": "Customizable Bali",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005333",
+           "packageName": "Jammu Kashmir - Maa Vaishnodevi Darshan With Patnitop",
+           "pdpSeoUrl": "Jammu Kashmir - Maa Vaishnodevi Darshan With Patnitop",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010181",
+           "packageName": "Buy 1 Get 1 Free - Golden Triangle",
+           "pdpSeoUrl": "Buy 1 Get 1 Free - Golden Triangle",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006487",
+           "packageName": "Uttar Pradesh - Varanasi, Prayagraj And Ayodhya Tour with Flights",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi, Prayagraj And Ayodhya Tour with Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006488",
+           "packageName": "Uttar Pradesh - Varanasi, Prayagraj with Chitrakoot Day Trip",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi, Prayagraj with Chitrakoot Day Trip",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010517",
+           "packageName": "Uttar Pradesh - Varanasi, Prayagraj And Ayodhya Tour",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi, Prayagraj And Ayodhya Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010518",
+           "packageName": "Uttar Pradesh - Varanasi, Prayagraj with Chitrakoot Day Trip with Flights",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi, Prayagraj with Chitrakoot Day Trip with Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006444",
+           "packageName": "Best Of Rhinoland - Assam",
+           "pdpSeoUrl": "Best Of Rhinoland - Assam",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010060",
+           "packageName": "Gujarat - Divine Dwarka And Somnath",
+           "pdpSeoUrl": "Gujarat - Divine Dwarka And Somnath",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010229",
+           "packageName": "Customizable Kasauli Ex Chandigarh  - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Kasauli Ex Chandigarh  - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009253",
+           "packageName": "Exotic Kerala",
+           "pdpSeoUrl": "Exotic Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009256",
+           "packageName": "Hills And Backwaters Of Kerala",
+           "pdpSeoUrl": "Hills And Backwaters Of Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010102",
+           "packageName": "Rajasthan - Architectural Delight ",
+           "pdpSeoUrl": "Rajasthan - Architectural Delight  (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003889",
+           "packageName": "Andhra Pradesh - Srisailam with Ahobilam and Mantralayam",
+           "pdpSeoUrl": "Andhra Pradesh - Srisailam with Ahobilam and Mantralayam",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010368",
+           "packageName": "Hyderabad Ramoji Film City and Kolanupaka",
+           "pdpSeoUrl": "Hyderabad Ramoji Film City and Kolanupaka",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009079",
+           "packageName": "Hyderabad City Ramoji and Statue of Equality Tour",
+           "pdpSeoUrl": "Hyderabad City Ramoji and Statue of Equality Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG003693",
+           "packageName": "Customizable - Heavenly Kashmir",
+           "pdpSeoUrl": "Heavenly Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG004666",
+           "packageName": "Customizable - Rajasthan - Rediscovering History",
+           "pdpSeoUrl": "Rajasthan - Rediscovering History",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG006241",
+           "packageName": "Customizable - Rajasthan - Redefining History",
+           "pdpSeoUrl": "Customizable - Rajasthan - Redefining History",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010492",
+           "packageName": "Beautiful Nepal",
+           "pdpSeoUrl": "Beautiful Nepal",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009663",
+           "packageName": "Marvelous Kerala",
+           "pdpSeoUrl": "Marvelous Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009457",
+           "packageName": "Customizable Thailand (3N Pattaya and 2N Bangkok)",
+           "pdpSeoUrl": "Customizable Thailand",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005245",
+           "packageName": "Himachal - Shimla - Dharamshala",
+           "pdpSeoUrl": "Himachal - Shimla - Dharamshala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006479",
+           "packageName": "Uttar Pradesh - Varanasi And Bodhgaya with Prayagraj Day Trip",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi And Bodhgaya with Prayagraj Day Trip",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006482",
+           "packageName": "Uttar Pradesh - Varanasi, Prayagraj And Bodhgaya Tour",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi, Prayagraj And Bodhgaya Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010098",
+           "packageName": "Customizable - Ooty and Kodai Tour",
+           "pdpSeoUrl": "Customizable - Ooty and Kodai Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010516",
+           "packageName": "Uttar Pradesh - Varanasi And Bodhgaya with Prayagraj Day Trip with Flights",
+           "pdpSeoUrl": "Uttar Pradesh - Varanasi And Bodhgaya with Prayagraj Day Trip with Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009941",
+           "packageName": "Splendid Kerala",
+           "pdpSeoUrl": "Splendid Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009954",
+           "packageName": "Customizable - Splendid Kerala",
+           "pdpSeoUrl": "Customizable - Splendid Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010242",
+           "packageName": "Customizable - Weekend Getaway to Kabini Ex Bangalore",
+           "pdpSeoUrl": "Customizable - Weekend Getaway to Kabini Ex Bangalore",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010073",
+           "packageName": "Gujarat - Statue Of Unity",
+           "pdpSeoUrl": "Gujarat - Statue Of Unity",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG005263",
+           "packageName": "Customizable Himachal (Shimla - Manali - Chandigarh) - Ex Chandigarh",
+           "pdpSeoUrl": "Customizable Himachal (Shimla - Manali - Chandigarh) - Ex Chandigarh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009551",
+           "packageName": "Himachal - Shimla - Manali - Chandigarh Ex Chandigarh",
+           "pdpSeoUrl": "Himachal - Shimla - Manali - Chandigarh Ex Chandigarh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010183",
+           "packageName": "Ujjain - Omkareshwar Jyotirling Tour",
+           "pdpSeoUrl": "Ujjain - Omkareshwar Jyotirling Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010271",
+           "packageName": "Customizable Madhya Pradesh - Ujjain - Omkareshwar Jyotirling Tour",
+           "pdpSeoUrl": "Customizable Madhya Pradesh - Ujjain - Omkareshwar Jyotirling Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009651",
+           "packageName": "Luxury  - Hills Of Kerala",
+           "pdpSeoUrl": "Luxury  - Hills Of Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003467",
+           "packageName": "Kathmandu with Chandragiri Hills",
+           "pdpSeoUrl": "Kathmandu with Chandragiri Hills",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009201",
+           "packageName": "Exceptional Kerala",
+           "pdpSeoUrl": "Exceptional Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000562",
+           "packageName": "Fascinating Kashmir with visit to Gulmarg",
+           "pdpSeoUrl": "Fascinating Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006466",
+           "packageName": "Kashmir - Gulmarg Escape",
+           "pdpSeoUrl": "Kashmir - Gulmarg Escape",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010457",
+           "packageName": "Odisha Konark Eco Retreat Package",
+           "pdpSeoUrl": "Odisha Konark Eco Retreat Package",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006153",
+           "packageName": "Uttarakhand - Corbett With Mussoorie",
+           "pdpSeoUrl": "Uttarakhand - Corbett With Mussoorie",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG003777",
+           "packageName": "Customizable - Funtastic Andaman",
+           "pdpSeoUrl": "Funtastic Andaman",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009495",
+           "packageName": "Bhubaneshwar Bhitarkanika And Puri",
+           "pdpSeoUrl": "Bhubaneshwar Bhitarkanika And Puri",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010381",
+           "packageName": "Phu Quoc Free And Easy",
+           "pdpSeoUrl": "Phu Quoc Free And Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG005262",
+           "packageName": "Customizable - Himachal ( Shimla - Manali - Chandigarh) Ex Delhi",
+           "pdpSeoUrl": "Customizable - Himachal ( Shimla - Manali - Chandigarh) Ex Delhi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009949",
+           "packageName": "Customizable - Himachal ( Shimla - Manali - Chandigarh)",
+           "pdpSeoUrl": "Customizable - Himachal ( Shimla - Manali - Chandigarh)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010379",
+           "packageName": "Vietnam - Da Nang Free And Easy",
+           "pdpSeoUrl": "Vietnam - Da Nang Free And Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006371",
+           "packageName": "Heavenly Kashmir with Pahalgam",
+           "pdpSeoUrl": "Kashmir - Heavenly Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009129",
+           "packageName": "Sikkim - Awesome Gangtok",
+           "pdpSeoUrl": "Sikkim - Awesome Gangtok",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010122",
+           "packageName": "Udaipur Trails",
+           "pdpSeoUrl": "Udaipur Trails",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010235",
+           "packageName": "Customizable Parwanoo Ex Delhi - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Parwanoo Ex Delhi - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010320",
+           "packageName": "Uttarakhand - Nainital Corbett with Mussoorie",
+           "pdpSeoUrl": "Uttarakhand - Nainital Corbett with Mussoorie",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009130",
+           "packageName": "West Bengal - Queen Of Hills",
+           "pdpSeoUrl": "West Bengal - Queen Of Hills",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010458",
+           "packageName": "Odisha Konark Eco Retreat 4N Package",
+           "pdpSeoUrl": "Odisha Konark Eco Retreat 4N Package",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006437",
+           "packageName": "Himachal - Dalhousie - Khajjiar - Dharamshala",
+           "pdpSeoUrl": "Himachal - Dalhousie - Khajjiar - Dharamshala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006441",
+           "packageName": "Shimla Manali Chandigarh (Ex Delhi) Himachal",
+           "pdpSeoUrl": "Himachal - Shimla - Manali - Chandigarh Ex Delhi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003726",
+           "packageName": "Amazing Andaman",
+           "pdpSeoUrl": "Amazing Andaman",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010252",
+           "packageName": "Amazing Andaman with Flexi Flights",
+           "pdpSeoUrl": "Amazing Andaman with Flexi Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006369",
+           "packageName": "Captivating Kashmir with visit to Sonmarg",
+           "pdpSeoUrl": "Captivating Kashmir with visit to Sonmarg",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010472",
+           "packageName": "Colombo New Year Special",
+           "pdpSeoUrl": "Colombo New Year Special",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010393",
+           "packageName": "Wonders Of Vietnam",
+           "pdpSeoUrl": "Wonders Of Vietnam",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010428",
+           "packageName": "Goa - Fort Tiracol Heritage Hotel",
+           "pdpSeoUrl": "Goa - Fort Tiracol Heritage Hotel",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG003683",
+           "packageName": "Customizable - Captivating Kashmir",
+           "pdpSeoUrl": "Customizable - Captivating Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG005534",
+           "packageName": " Customizable Himachal (Dalhousie - Khajjiar - Dharamshala)",
+           "pdpSeoUrl": " Customizable Himachal - Dalhousie - Khajjiar - Dharamshala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006436",
+           "packageName": "Himachal - Amritsar - Dalhousie - Dharamshala - Ex-Amritsar",
+           "pdpSeoUrl": "Himachal - Amritsar - Dalhousie - Dharamshala - Ex-Amritsar",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006438",
+           "packageName": "Himachal - Dalhousie - Khajjiar - Dharamshala 6N",
+           "pdpSeoUrl": "Himachal - Dalhousie - Khajjiar - Dharamshala 6N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000494",
+           "packageName": "Magical Malwa - Madhya Pradesh Pilgrimage",
+           "pdpSeoUrl": "Madhya Pradesh - Magical Malwa",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010132",
+           "packageName": "Karnataka - Bangalore Mysore Coorg Ooty Tour",
+           "pdpSeoUrl": "Karnataka - Bangalore Mysore Coorg Ooty Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010121",
+           "packageName": "Jaisalmer Trails",
+           "pdpSeoUrl": "Jaisalmer Trails",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006458",
+           "packageName": "Andaman Week",
+           "pdpSeoUrl": "Andaman Week",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010255",
+           "packageName": "Andaman Week with Flexi Flights",
+           "pdpSeoUrl": "Andaman Week with Flexi Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010144",
+           "packageName": "Customizable Thailand - Koh Samui",
+           "pdpSeoUrl": "Customizable Thailand - Koh Samui",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000555",
+           "packageName": "Stunning Kashmir with visit to Sonmarg",
+           "pdpSeoUrl": "Stunning Kashmir with visit to Sonmarg",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009793",
+           "packageName": "Customizable - Escape To Kerala",
+           "pdpSeoUrl": "Customizable - Escape To Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010056",
+           "packageName": "Ahmedabad with Statue of Unity",
+           "pdpSeoUrl": "Ahmedabad with Statue of Unity",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010245",
+           "packageName": "Customizable - Weekend Getaway to 03N Coorg Ex Bangalore",
+           "pdpSeoUrl": "Customizable - Weekend Getaway to 03N Coorg Ex Bangalore",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010239",
+           "packageName": "Customizable Solan (Excursion to Chail & Kasauli ) - Ex Chandigarh - Weekend Getaway",
+           "pdpSeoUrl": "Customizable Solan (Excursion to Chail & Kasauli ) - Ex Chandigarh - Weekend Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010321",
+           "packageName": "Oman - Free And Easy",
+           "pdpSeoUrl": "Oman - Free And Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006012",
+           "packageName": "Wonders Of Shillong And Guwahati ",
+           "pdpSeoUrl": "Wonders Of Shillong And  Guwahati",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003540",
+           "packageName": "Splendid Ladakh",
+           "pdpSeoUrl": "Splendid Ladakh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010099",
+           "packageName": "Customizable - Madurai, Rameshwaram, Kanyakumari, Trivandrum Tour",
+           "pdpSeoUrl": "Customizable - Madurai, Rameshwaram, Kanyakumari, Trivandrum Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG004473",
+           "packageName": "Wonders Of Assam And Meghalaya",
+           "pdpSeoUrl": "Wonders Of Assam And Meghalaya",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006605",
+           "packageName": "Beautiful Leh with Pangong",
+           "pdpSeoUrl": "Beautiful Leh with Pangong",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006446",
+           "packageName": "Himachal - Manali Dharamshala Dalhousie",
+           "pdpSeoUrl": "Himachal - Manali Dharamshala Dalhousie",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010247",
+           "packageName": "Customizable - Weekend Getaway to Kabini With Coorg Ex Bangalore",
+           "pdpSeoUrl": "Customizable - Weekend Getaway to Kabini With Coorg Ex Bangalore",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG006312",
+           "packageName": "Customizable - Sri Lanka – Kandy Nuwara Eliya Bentota With Colombo",
+           "pdpSeoUrl": "Customizable - Sri Lanka – Kandy Nuwara Eliya Bentota With Colombo",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009597",
+           "packageName": "Bali Free And Easy - Nusa Dua",
+           "pdpSeoUrl": "Bali Free And Easy - Nusa Dua",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010314",
+           "packageName": "Uttarakhand - Snow And Skiing In Auli",
+           "pdpSeoUrl": "Uttarakhand - Snow And Skiing In Auli",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006599",
+           "packageName": "Beautiful Leh with Nubra",
+           "pdpSeoUrl": "Beautiful Leh with Nubra",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG004472",
+           "packageName": "Explore Shillong",
+           "pdpSeoUrl": "Explore Shillong",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009251",
+           "packageName": "Colours Of Kerala",
+           "pdpSeoUrl": "Colours Of Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG005271",
+           "packageName": "Customizable Himachal (Shimla - Manali - Dharamshala)",
+           "pdpSeoUrl": "Customizable Himachal - Shimla - Manali - Dharamshala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006427",
+           "packageName": "Himachal - Shimla, Manali, Dharamshala - Ex Delhi",
+           "pdpSeoUrl": "Himachal - Shimla Manali Dharamshala - Ex Delhi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009918",
+           "packageName": "Customizable Kashmir - Gulmarg Special",
+           "pdpSeoUrl": "Customizable Kashmir - Gulmarg Special",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010412",
+           "packageName": "The Elusive Snow Leopard in Ladakh",
+           "pdpSeoUrl": "The Elusive Snow Leopard in Ladakh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010284",
+           "packageName": "Sri Lanka Dhamaka with Flexi Flights",
+           "pdpSeoUrl": "Sri Lanka Dhamaka with Flexi Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001243",
+           "packageName": "Tamil Nadu - Ooty Kodaikanal Short Tour",
+           "pdpSeoUrl": "Tamil Nadu - Ooty Kodaikanal Short Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG005388",
+           "packageName": "Customizable - Amazing Andaman",
+           "pdpSeoUrl": "Customizable - Amazing Andaman",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009454",
+           "packageName": "Tamil Nadu - Ooty Mysore Bangalore",
+           "pdpSeoUrl": "Tamil Nadu - Ooty Mysore Bangalore",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010469",
+           "packageName": "Bentota Cinnamon New Year  Special",
+           "pdpSeoUrl": "Bentota Cinnamon New Year  Special",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010470",
+           "packageName": "Bentota Colombo with Cinnamon New Year Special",
+           "pdpSeoUrl": "Bentota Colombo with Cinnamon New Year Special",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010097",
+           "packageName": "Customizable - Coorg, Ooty, Mysore, Bangalore Tour",
+           "pdpSeoUrl": "Customizable - Coorg, Ooty, Mysore, Bangalore Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009661",
+           "packageName": "Luxury - Simply Kerala",
+           "pdpSeoUrl": "Luxury - Simply Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG005282",
+           "packageName": "Customizable Himachal (Dalhousie - Dharamshala - Shimla)",
+           "pdpSeoUrl": "Customizable Himachal - Dalhousie - Dharamshala - Shimla",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006445",
+           "packageName": "Himachal - Shimla, Dharamshala, Dalhousie - Ex-Amritsar",
+           "pdpSeoUrl": "Himachal - Shimla-Dharamshala-Dalhousie - Ex - Amritsar",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010064",
+           "packageName": "Gujarat - Dwarka Somnath With Sasangir",
+           "pdpSeoUrl": "Gujarat - Dwarka Somnath With Sasangir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009450",
+           "packageName": "Karnataka - Coorg Mysore Bangalore",
+           "pdpSeoUrl": "Karnataka - Coorg Mysore Bangalore",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG006290",
+           "packageName": "Customizable - Palaces of Rajasthan",
+           "pdpSeoUrl": "Customizable - Palaces of Rajasthan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG005381",
+           "packageName": "Customizable - Splendors of Kashmir",
+           "pdpSeoUrl": "Customizable - Splendors of Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010184",
+           "packageName": "Andaman Private Tour",
+           "pdpSeoUrl": "Andaman Private Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010248",
+           "packageName": "Customizable - Weekend Getaway to 03N Kabini Ex Bangalore",
+           "pdpSeoUrl": "Customizable - Weekend Getaway to 03N Kabini Ex Bangalore",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000569",
+           "packageName": "Delightful Ladakh",
+           "pdpSeoUrl": "Delightful Ladakh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005478",
+           "packageName": "Adventureous  Nepal",
+           "pdpSeoUrl": "Adventureous  Nepal",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010246",
+           "packageName": "Malaysia - The Best Of Sabah",
+           "pdpSeoUrl": "Malaysia - The Best Of Sabah",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009943",
+           "packageName": "Incredible Kerala",
+           "pdpSeoUrl": "Incredible Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009955",
+           "packageName": "Customizable - Incredible Kerala",
+           "pdpSeoUrl": "Customizable - Incredible Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010400",
+           "packageName": "Vietnam Delights",
+           "pdpSeoUrl": "Vietnam Delights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006451",
+           "packageName": "Himachal  - Manali, Dharamshala, Dalhousie , Chandigarh 8N",
+           "pdpSeoUrl": "Himachal  - Manali Dharamshala Dalhousie Chandigarh 8N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009733",
+           "packageName": "Heritage Gwalior Orchha Khajuraho Ex-Gwalior - Madhya Pradesh",
+           "pdpSeoUrl": "Heritage Gwalior Orchha Khajuraho Ex-Gwalior - Madhya Pradesh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009314",
+           "packageName": "Customizable Singapore With City Tour",
+           "pdpSeoUrl": "Customizable Singapore With City Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010142",
+           "packageName": "Customizable Krabi & Phuket",
+           "pdpSeoUrl": "Customizable Krabi & Phuket",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006716",
+           "packageName": "Uttarakhand - Nainital Corbett with Mussoorie 6N",
+           "pdpSeoUrl": "Uttarakhand - Nainital Corbett with Mussoorie",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG000855",
+           "packageName": "Customizable - Andaman Week",
+           "pdpSeoUrl": "Customizable - Andaman Week",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005420",
+           "packageName": "Golden Triangle",
+           "pdpSeoUrl": "Golden Triangle",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010316",
+           "packageName": "Uttarakhand - Snow Experience Chopta With Auli",
+           "pdpSeoUrl": "Uttarakhand - Snow Experience Chopta With Auli",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010187",
+           "packageName": "Andaman Week Private Tour 6N",
+           "pdpSeoUrl": "Andaman Week Private Tour 6N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010109",
+           "packageName": "Stunning Rajasthan (Winter Special)",
+           "pdpSeoUrl": "Stunning Rajasthan (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010125",
+           "packageName": "Gujarat - Statue of Unity with Dwarka and Somnath",
+           "pdpSeoUrl": "Gujarat - Statue of Unity with Dwarka and Somnath (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003720",
+           "packageName": "Glimpses Of Eastern Himalayas",
+           "pdpSeoUrl": "Glimpses Of Eastern Himalayas",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003539",
+           "packageName": "Remarkable Ladakh",
+           "pdpSeoUrl": "Remarkable Ladakh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006344",
+           "packageName": "Sri Lanka - Kandy Nuwaraeliya Colombo With Ramayana (Ashoka Vatika Tour)",
+           "pdpSeoUrl": "Sri Lanka - Kandy Nuwaraeliya Colombo With Ramayana Ashoka Vatika Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010279",
+           "packageName": "Srilanka with Ramayana Ashok Vatika Tour with Flexi Flights",
+           "pdpSeoUrl": "Srilanka with Ramayana Ashok Vatika Tour with Flexi Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG003692",
+           "packageName": "Customizable - Kashmir Glimpses Of Valley",
+           "pdpSeoUrl": "Customizable - Kashmir Glimpses Of Valley",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006367",
+           "packageName": "Kashmir - Glimpses Of Valley",
+           "pdpSeoUrl": "Kashmir - Glimpses Of Valley",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005483",
+           "packageName": "Awe - Inspiring Nepal",
+           "pdpSeoUrl": "Kathmandu Pokhara and Nagarkot 5N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010345",
+           "packageName": "Andaman Barren Island Cruise Getaway",
+           "pdpSeoUrl": "Andaman Barren Island Cruise Getaway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010145",
+           "packageName": "Customizable Thailand - Chiang Mai",
+           "pdpSeoUrl": "Customizable Thailand - Chiang Mai",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010152",
+           "packageName": "Customizable Thailand - Chiang Rai",
+           "pdpSeoUrl": "Customizable Thailand - Chiang Rai",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009610",
+           "packageName": "Natures Treasure Ex-Bhopal - Madhya Pradesh",
+           "pdpSeoUrl": "Madhya Pradesh - Natures Treasure Ex Bhopal",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010106",
+           "packageName": "Exqusite Rajasthan  (Winter Special)",
+           "pdpSeoUrl": "Exqusite Rajasthan  (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010251",
+           "packageName": "Malaysia - Kota Kinabalu",
+           "pdpSeoUrl": "Malaysia - Kota Kinabalu",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009451",
+           "packageName": "Karnataka - Coorg Mysore And Ooty",
+           "pdpSeoUrl": "Karnataka - Coorg Mysore And Ooty",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003553",
+           "packageName": "Alluring Bhutan",
+           "pdpSeoUrl": "Alluring Bhutan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010143",
+           "packageName": "Customizable Thailand - Hua Hin",
+           "pdpSeoUrl": "Customizable Thailand - Hua Hin",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010215",
+           "packageName": "Unique stays At Kanatal",
+           "pdpSeoUrl": "Unique stays At Kanatal",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000746",
+           "packageName": "Splendors of Kashmir with visit to Sonmarg",
+           "pdpSeoUrl": "Splendors of Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001481",
+           "packageName": "Enchanting Kashmir with visit to Sonmarg",
+           "pdpSeoUrl": "Enchanting Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006110",
+           "packageName": "Wellness Ayurveda at Niraamaya Thekkady 3N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Thekkady 3N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG003686",
+           "packageName": "Customizable - Explore Kashmir",
+           "pdpSeoUrl": "Explore Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006433",
+           "packageName": "Himachal - Shimla, Manali, Dharamshala, Dalhousie - Ex Delhi",
+           "pdpSeoUrl": "Himachal - Shimla Manali Dharamshala Dalhousie - Ex Delhi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006434",
+           "packageName": "Himachal - Shimla, Manali, Dharamshala, Dalhousie, Amritsar - Ex Delhi",
+           "pdpSeoUrl": "Himachal - Shimla Manali Dharamshala Dalhousie Amritsar - Ex Delhi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009836",
+           "packageName": "Malaysia - Legoland Surprise",
+           "pdpSeoUrl": "Malaysia - Legoland Surprise",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006051",
+           "packageName": "Awesome Assam and Meghalaya",
+           "pdpSeoUrl": "Awesome Assam and Meghalaya",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003451",
+           "packageName": "Striking Bhutan",
+           "pdpSeoUrl": "Striking Bhutan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009758",
+           "packageName": "Discover Vietnam",
+           "pdpSeoUrl": "Discover Vietnam",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG004483",
+           "packageName": "Amazing North East",
+           "pdpSeoUrl": "Amazing North East",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010385",
+           "packageName": "Classic Oman",
+           "pdpSeoUrl": "Classic Oman",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006490",
+           "packageName": "Darshan Trail UP to Bodhgaya",
+           "pdpSeoUrl": "Darshan Trail UP to Bodhgaya",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010519",
+           "packageName": "Darshan Trail UP to Bodhgaya with Flights",
+           "pdpSeoUrl": "Darshan Trail UP to Bodhgaya with Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000572",
+           "packageName": "Marvellous Ladakh",
+           "pdpSeoUrl": "Marvellous Ladakh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010130",
+           "packageName": "Whole of Gujarat ",
+           "pdpSeoUrl": "Whole of Gujarat (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010459",
+           "packageName": "Bentota Riu - Full Board - Xmas New Year Special Sri Lanka",
+           "pdpSeoUrl": "Bentota Riu - Full Board - Xmas New Year Special Sri Lanka",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003723",
+           "packageName": "Marvels of North East",
+           "pdpSeoUrl": "Marvels of North East",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010471",
+           "packageName": "Colombo Bentota with Riu New Year Special",
+           "pdpSeoUrl": "Colombo Bentota with Riu New Year Special",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009644",
+           "packageName": "Madhya Pradesh - Malwa Retreat",
+           "pdpSeoUrl": "Madhya Pradesh - Malwa Retreat",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009901",
+           "packageName": "Fly Stay and Explore Madhya Pradesh - Malwa Retreat",
+           "pdpSeoUrl": "Madhya Pradesh - Malwa Retreat",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005480",
+           "packageName": "Magical Nepal",
+           "pdpSeoUrl": "Magical Nepal",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006202",
+           "packageName": "Maldives - Biyadhoo Island Resort (4N - Standard Room)",
+           "pdpSeoUrl": "Biyadhoo Island Resort (4N - Standard Room)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000741",
+           "packageName": "Fabulous Kashmir with Vaishno Devi",
+           "pdpSeoUrl": "Fabulous Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010175",
+           "packageName": "North East Delight",
+           "pdpSeoUrl": "North East Delight",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG004480",
+           "packageName": "Sikkim - The Eastern Triangle",
+           "pdpSeoUrl": "Sikkim - The Eastern Triangle",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010101",
+           "packageName": "Rajasthan - Jungle Safari and Hot Air Balloon Special ",
+           "pdpSeoUrl": "Rajasthan - Jungle Safari and Hot Air Balloon Special ",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003533",
+           "packageName": "Classic Ladakh",
+           "pdpSeoUrl": "Classic Ladakh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005951",
+           "packageName": "Fascinating Sikkim and Darjeeling",
+           "pdpSeoUrl": "Fascinating Sikkim and Darjeeling",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005479",
+           "packageName": "Nepal Highlights",
+           "pdpSeoUrl": "Nepal Highlights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009659",
+           "packageName": "Luxury - Hills And Backwaters Of Kerala",
+           "pdpSeoUrl": "Luxury - Hills And Backwaters Of Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010435",
+           "packageName": "Nubra Valley Trails with Leh and Pangong",
+           "pdpSeoUrl": "Nubra Valley Trails with Leh and Pangong",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006398",
+           "packageName": "Best of Kashmir with Vaishno Devi and Patnitop",
+           "pdpSeoUrl": "Best of Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006464",
+           "packageName": "Explore Kashmir with visit to Sonmarg",
+           "pdpSeoUrl": "Explore Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009957",
+           "packageName": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar) - Ex Delhi",
+           "pdpSeoUrl": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar) - Ex Delhi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009958",
+           "packageName": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar) - Ex Chandigarh",
+           "pdpSeoUrl": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar) - Ex Chandigarh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010429",
+           "packageName": "Sri Lanka - Bentota and Colombo Casino Special",
+           "pdpSeoUrl": "Sri Lanka - Bentota and Colombo Casino Special",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009666",
+           "packageName": "Luxury - Marvelous Kerala",
+           "pdpSeoUrl": "Luxury - Marvelous Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005895",
+           "packageName": "West Bengal - Sunderban National Park",
+           "pdpSeoUrl": "West Bengal - Sunderban National Park",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003523",
+           "packageName": "Mesmerizing Bhutan",
+           "pdpSeoUrl": "Mesmerizing Bhutan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010161",
+           "packageName": "Dalhousie Khajjiar With Amritsar - Premium",
+           "pdpSeoUrl": "Dalhousie Khajjiar With Amritsar - Premium",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006709",
+           "packageName": "Amazing Ladakh with Turtuk Excursion",
+           "pdpSeoUrl": "Amazing Ladakh with Turtuk Excursion",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010500",
+           "packageName": "Golf Getaway Colombo Min - 8 Players",
+           "pdpSeoUrl": "Golf Getaway Colombo Min - 8 Players",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006053",
+           "packageName": "Charismatic Assam And Meghalaya",
+           "pdpSeoUrl": "Charismatic Assam And Meghalaya",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010139",
+           "packageName": "Highlights Of Karnataka and Tamil Nadu",
+           "pdpSeoUrl": "Highlights Of Karnataka and Tamil Nadu",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010108",
+           "packageName": "Fascinating Rajasthan (Winter Special)",
+           "pdpSeoUrl": "Fascinating Rajasthan (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010105",
+           "packageName": "Colourful Rajasthan ",
+           "pdpSeoUrl": "Colourful Rajasthan (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006572",
+           "packageName": "Rejuvenating Rajasthan (Winter Special)",
+           "pdpSeoUrl": "Rejuvenating Rajasthan (Winter Special)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006342",
+           "packageName": "Sri Lanka - Dambulla Kandy Nuwaraeliya Bentota With Colombo",
+           "pdpSeoUrl": "Sri Lanka - Dambulla Kandy Nuwaraeliya Bentota With Colombo",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010278",
+           "packageName": "Sri Lanka - Dambulla Kandy Nuwaraeliya Bentota With Colombo with Flexi Flights",
+           "pdpSeoUrl": "Sri Lanka - Dambulla Kandy Nuwaraeliya Bentota With Colombo with Flexi Flights",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006028",
+           "packageName": "Wellness Ayurveda at Niraamaya Kovalam 3N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kovalam 3N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009656",
+           "packageName": "Luxury - Exotic Kerala",
+           "pdpSeoUrl": "Luxury - Exotic Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006590",
+           "packageName": "Amazing Ladakh",
+           "pdpSeoUrl": "Amazing Ladakh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010290",
+           "packageName": "Turkiye Duo",
+           "pdpSeoUrl": "Turkiye Duo",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009653",
+           "packageName": "Luxury - Exceptional Kerala",
+           "pdpSeoUrl": "Luxury - Exceptional Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG002233",
+           "packageName": "Darjeeling and Gangtok with Pelling",
+           "pdpSeoUrl": "Darjeeling and Gangtok with Pelling",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010409",
+           "packageName": "Classic Vietnam",
+           "pdpSeoUrl": "Classic Vietnam",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001482",
+           "packageName": "Wonders of Kashmir with Vaishno Devi",
+           "pdpSeoUrl": "Wonders of Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG008982",
+           "packageName": "Customizable Mauritius - Casuarina Resort & Spa",
+           "pdpSeoUrl": "Customizable Mauritius - Casuarina Resort & Spa",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009763",
+           "packageName": "Himachal - Amritsar - Dalhousie - Dharamshala - Manali - Shimla - Chandigarh - Ex-Amritsar",
+           "pdpSeoUrl": "Himachal - Amritsar - Dalhousie - Dharamshala - Manali - Shimla - Chandigarh - Ex-Amritsar",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009945",
+           "packageName": "Customizable - All Of Kashmir",
+           "pdpSeoUrl": "Customizable - All Of Kashmir",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009959",
+           "packageName": "Customizable - (Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex Amritsar",
+           "pdpSeoUrl": "Customizable - (Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex Amritsar",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009960",
+           "packageName": "Customizable - (Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex Amritsar",
+           "pdpSeoUrl": "Customizable - (Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex Amritsar",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010402",
+           "packageName": "Kashmir - Gulmarg Skiing Special",
+           "pdpSeoUrl": "Kashmir - Gulmarg Skiing Special",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003315",
+           "packageName": "Panch Dwarka - Gujarat ",
+           "pdpSeoUrl": "Panch Dwarka - Gujarat ",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009962",
+           "packageName": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar - Chandigarh) Ex Delhi",
+           "pdpSeoUrl": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar - Chandigarh) Ex Delhi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009975",
+           "packageName": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar - Chandigarh)",
+           "pdpSeoUrl": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar - Chandigarh)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009976",
+           "packageName": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar - Chandigarh) Ex IXC",
+           "pdpSeoUrl": "Customizable - Himachal (Shimla - Manali - Dharamshala - Dalhousie - Amritsar - Chandigarh) Ex IXC",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009983",
+           "packageName": "Customizable - Himachal (Chandigarh - Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex DEL",
+           "pdpSeoUrl": "Customizable - Himachal (Chandigarh - Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex DEL",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009985",
+           "packageName": "Customizable - Himachal (Chandigarh - Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex DEL",
+           "pdpSeoUrl": "Customizable - Himachal (Chandigarh - Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex DEL",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009989",
+           "packageName": "Customizable - Himachal (Chandigarh - Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex IXC",
+           "pdpSeoUrl": "Customizable - Himachal (Chandigarh - Amritsar - Dalhousie - Dharamshala - Manali - Shimla) Ex IXC",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010501",
+           "packageName": "Golf Holiday Colombo and Kandy Min - 8 Players",
+           "pdpSeoUrl": "Golf Holiday Colombo and Kandy Min - 8 Players",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003622",
+           "packageName": "Explore Darjeeling and Sikkim",
+           "pdpSeoUrl": "Sikkim and West Bengal - Explore Darjeeling and Sikkim",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009847",
+           "packageName": "Customizable - Wildlife Tour Of Kanha and Bandhavgarh",
+           "pdpSeoUrl": "Customizable - Wildlife Tour Of Kanha and Bandhavgarh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009848",
+           "packageName": "Customizable - Wildlife Kanha and Pench with Safari - Premium",
+           "pdpSeoUrl": "Customizable - Wildlife Kanha and Pench with Safari - Premium",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG009849",
+           "packageName": "Customizable - Wildlife Pench And Tadoba with Safari - Premium\t\t\t",
+           "pdpSeoUrl": "Customizable - Wildlife Pench And Tadoba with Safari - Premium",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009900",
+           "packageName": "Kanha Bandhavgarh Wildlife With Flexi Flight  Tour",
+           "pdpSeoUrl": "Kanha Bandhavgarh Wildlife With Flexi Flight  Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009902",
+           "packageName": "Pench Tadoba Wildlife With Flexi Flight  Tour",
+           "pdpSeoUrl": "Pench Tadoba Wildlife With Flexi Flight  Tour",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010149",
+           "packageName": "Tamil Nadu Temple Trail and Pilgrimage",
+           "pdpSeoUrl": "Tamil Nadu Temple Trail and Pilgrimage",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009607",
+           "packageName": "Ancient and Wild Ex-Jabalpur - Madhya Pradesh",
+           "pdpSeoUrl": "Madhya Pradesh - Ancient and Wild Ex Jabalpur",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005482",
+           "packageName": "Glorious Nepal",
+           "pdpSeoUrl": "Kathmandu Pokhara with Chitwan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009504",
+           "packageName": "Enchanting Nepal",
+           "pdpSeoUrl": "Enchanting Nepal",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010411",
+           "packageName": "Majestic Vietnam",
+           "pdpSeoUrl": "Majestic Vietnam",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003722",
+           "packageName": "North Sikkim Delight",
+           "pdpSeoUrl": "North Sikkim Delight",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009657",
+           "packageName": "Luxury - Escape To Kerala",
+           "pdpSeoUrl": "Luxury - Escape To Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010291",
+           "packageName": "Turkiye Duo With Antalya",
+           "pdpSeoUrl": "Turkiye Duo With Antalya",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010042",
+           "packageName": "Amazing Bhutan",
+           "pdpSeoUrl": "Amazing Bhutan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006062",
+           "packageName": "Wildlife Tour Of Kanha and Bandhavgarh - Madhya Pradesh Wild",
+           "pdpSeoUrl": "Madhya Pradesh - Wildlife Tour Of Kanha and Bandhavgarh",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009772",
+           "packageName": "Wildlife Pench And Tadoba with Safari - Premium\t\t\t",
+           "pdpSeoUrl": "Wildlife Pench And Tadoba with Safari - Premium\t\t",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009773",
+           "packageName": "Wildlife Kanha and Pench with Safari - Premium",
+           "pdpSeoUrl": "Wildlife Kanha and Pench with Safari - Premium",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009508",
+           "packageName": "Best of Cambodia",
+           "pdpSeoUrl": "Best of Cambodia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010407",
+           "packageName": "2N Costa Toscana Cruise With 2N Dubai",
+           "pdpSeoUrl": "2N Costa Toscana Cruise With 2N Dubai",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009897",
+           "packageName": "Grand Bargain Tour Of Thailand (Winter)",
+           "pdpSeoUrl": "Grand Bargain Tour Of Thailand (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001538",
+           "packageName": "Treasures Of Northeast",
+           "pdpSeoUrl": "Treasures Of Northeast",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010389",
+           "packageName": "Discover Oman",
+           "pdpSeoUrl": "Discover Oman",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003851",
+           "packageName": "Nagaland - Hornbill Festival Package",
+           "pdpSeoUrl": "Nagaland - Hornbill Festival Package",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006636",
+           "packageName": "Wow Kargil with Nubra",
+           "pdpSeoUrl": "Wow Kargil with Nubra",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006106",
+           "packageName": "Wellness Ayurveda at Niraamaya Kumarakom 3N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kumarakom 3N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006637",
+           "packageName": "Wow Ladakh with Kargil",
+           "pdpSeoUrl": "Wow Ladakh with Kargil",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006109",
+           "packageName": "Wellness Ayurveda at Niraamaya Thekkady 5N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Thekkady 5N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010306",
+           "packageName": "Sri Lanka Highlights With Hot Air Balloon",
+           "pdpSeoUrl": "Sri Lanka Highlights With Hot Air Balloon",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010162",
+           "packageName": "Nepal - Splendour of Himalayas",
+           "pdpSeoUrl": "Nepal - Splendour of Himalayas",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010233",
+           "packageName": "Costa Toscana Cruise With 1N Dubai + 1N Abu Dhabi",
+           "pdpSeoUrl": "Costa Toscana Cruise With 1N Dubai + 1N Abu Dhabi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009658",
+           "packageName": "Luxury - Colours Of Kerala",
+           "pdpSeoUrl": "Luxury - Colours Of Kerala",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010372",
+           "packageName": "Customizable 2N Abu Dhabi And 4N Dubai",
+           "pdpSeoUrl": "Customizable 2N Abu Dhabi And 4N Dubai",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "Y",
+           "packageId": "PKG010406",
+           "packageName": "Customizable 4N Dubai & 2N Abu Dhabi",
+           "pdpSeoUrl": "Customizable 4N Dubai & 2N Abu Dhabi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010397",
+           "packageName": "Enchanting Oman",
+           "pdpSeoUrl": "Enchanting Oman",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010392",
+           "packageName": "Delights Of Oman",
+           "pdpSeoUrl": "Delights Of Oman",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010283",
+           "packageName": "Trending Turkiye",
+           "pdpSeoUrl": "Trending Turkiye",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010186",
+           "packageName": "Enchanting Egypt",
+           "pdpSeoUrl": "Enchanting Egypt",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010137",
+           "packageName": "Kaziranga Safari with Shillong and Guwahati",
+           "pdpSeoUrl": "Kaziranga Safari with Shillong and Guwahati",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010413",
+           "packageName": "Scenic Vietnam",
+           "pdpSeoUrl": "Scenic Vietnam",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010185",
+           "packageName": "Explore Egypt",
+           "pdpSeoUrl": "Explore Egypt",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010349",
+           "packageName": "Andaman Barren Island Cruise Getaway - Luxury",
+           "pdpSeoUrl": "Andaman Barren Island Cruise Getaway - Luxury",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008913",
+           "packageName": "Maldives - Maayafushi Resort (4N Garden Room)",
+           "pdpSeoUrl": "Maldives - Maayafushi Resort (4N Garden Room)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010487",
+           "packageName": "Romanchak Sri Lanka - Air Inclusive  (Veg Special)",
+           "pdpSeoUrl": "Romanchak Sri Lanka - Air Inclusive  (Veg Special)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010272",
+           "packageName": "Best of Turkiye",
+           "pdpSeoUrl": "Best of Turkiye",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009078",
+           "packageName": "Maldives - Alimatha Aquatic Resort (4N Garden Room)",
+           "pdpSeoUrl": "Maldives - Alimatha Aquatic Resort (4N Garden Room)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010123",
+           "packageName": "Rajasthan - Jawai Trails with Udaipur",
+           "pdpSeoUrl": "Rajasthan - Jawai Trails with Udaipur",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006027",
+           "packageName": "Wellness Ayurveda at Niraamaya Kovalam 5N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kovalam 5N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010496",
+           "packageName": "Golfers Week in Pearl Island Sri Lanka Min - 8 Player",
+           "pdpSeoUrl": "Golfers Week in Pearl Island Sri Lanka Min - 8 Player",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010168",
+           "packageName": "Warsaw - A La Carte",
+           "pdpSeoUrl": "Warsaw - A La Carte",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008912",
+           "packageName": "Maldives - Dhiggiri Resort (4N Garden Bungalow)",
+           "pdpSeoUrl": "Maldives - Dhiggiri Resort (4N Garden Bungalow)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010250",
+           "packageName": "Fantastic Finland",
+           "pdpSeoUrl": "Fantastic Finland",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010445",
+           "packageName": "Maldives - Gangehi Island Resort (4N Beach Villa)",
+           "pdpSeoUrl": "Maldives - Gangehi Island Resort (4N Beach Villa)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001442",
+           "packageName": "Char Dham Yatra",
+           "pdpSeoUrl": "Char Dham Yatra",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009499",
+           "packageName": "Highlights Of Vietnam and Cambodia",
+           "pdpSeoUrl": "Highlights Of Vietnam and Cambodia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006108",
+           "packageName": "Wellness Ayurveda at Niraamaya Thekkady 7N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Thekkady 7N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006306",
+           "packageName": "Three Sisters Tour - Assam,Meghalaya and Arunachal",
+           "pdpSeoUrl": "Three Sisters Tour - Assam,Meghalaya and Arunachal",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010401",
+           "packageName": "A La Carte Iceland",
+           "pdpSeoUrl": "A La Carte Iceland",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009394",
+           "packageName": "Incredible Nepal with Muktinath",
+           "pdpSeoUrl": "Incredible Nepal with Muktinath",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009771",
+           "packageName": "Himachal - Solan Manali with Chandigarh - Luxury",
+           "pdpSeoUrl": "Himachal - Solan Manali with Chandigarh - Luxury",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006105",
+           "packageName": "Wellness Ayurveda at Niraamaya Kumarakom 5N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kumarakom 5N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010287",
+           "packageName": "Swiss Surprise - 5N",
+           "pdpSeoUrl": "Swiss Surprise 5N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010262",
+           "packageName": "Crazy Deal Dubai with Costa Toscana Cruise",
+           "pdpSeoUrl": " Crazy Deal Dubai with Costa Toscana Cruise",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009392",
+           "packageName": "Exciting Egypt",
+           "pdpSeoUrl": "Exciting Egypt",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009770",
+           "packageName": "Kashmir Beyond Luxury",
+           "pdpSeoUrl": "Kashmir Beyond Luxury",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010305",
+           "packageName": "Sri Lanka Luxury Escape with Pool Villa and Cabins",
+           "pdpSeoUrl": "Sri Lanka Luxury Escape with Pool Villa and Cabins",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010399",
+           "packageName": "Wonderful Oman",
+           "pdpSeoUrl": "Wonderful Oman",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010213",
+           "packageName": "Costa Toscana Cruise With 2N Dubai + 2N Abu Dhabi",
+           "pdpSeoUrl": "Costa Toscana Cruise With 2N Dubai + 2N Abu Dhabi",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010260",
+           "packageName": "Finland - Add On Kakslauttanen Igloo Stay",
+           "pdpSeoUrl": "Finland - Add On Kakslauttanen Igloo Stay",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006026",
+           "packageName": "Wellness Ayurveda at Niraamaya Kovalam 7N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kovalam 7N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008843",
+           "packageName": "Swiss Splendour ",
+           "pdpSeoUrl": "Swiss Splendour (Summer)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008872",
+           "packageName": "Serene Swiss",
+           "pdpSeoUrl": "Serene Swiss",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010395",
+           "packageName": "A La Carte Norway",
+           "pdpSeoUrl": "A La Carte Norway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010414",
+           "packageName": "Himachal - Snow Leopard Expedition",
+           "pdpSeoUrl": "Himachal - Snow Leopard Expedition",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006104",
+           "packageName": "Wellness Ayurveda at Niraamaya Kumarakom 7N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kumarakom 7N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009569",
+           "packageName": "Incredible Iceland",
+           "pdpSeoUrl": "Incredible Iceland",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010454",
+           "packageName": "Dammam Free & Easy",
+           "pdpSeoUrl": "Dammam Free & Easy",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010313",
+           "packageName": "Truly New Zealand",
+           "pdpSeoUrl": "Truly New Zealand",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010124",
+           "packageName": "Australian Delight ",
+           "pdpSeoUrl": "Australian Delight",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010292",
+           "packageName": "Iconic Iceland",
+           "pdpSeoUrl": "Iconic Iceland",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009871",
+           "packageName": "Grand Bargain Tour of Egypt (Winter)",
+           "pdpSeoUrl": "Grand Bargain Tour of Egypt (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010119",
+           "packageName": "Essence of Australia",
+           "pdpSeoUrl": "Essence of Australia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010192",
+           "packageName": "South Africa Surprise",
+           "pdpSeoUrl": "South Africa Surprise",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010065",
+           "packageName": "Divine Australia",
+           "pdpSeoUrl": "Divine Australia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006107",
+           "packageName": "Wellness Ayurveda at Niraamaya Thekkady 14N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Thekkady 14N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010296",
+           "packageName": "Majestic New Zealand",
+           "pdpSeoUrl": "Majestic New Zealand",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009872",
+           "packageName": "Egyptian Extravaganza (Winter)",
+           "pdpSeoUrl": "Egyptian Extravaganza (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009238",
+           "packageName": "Swiss French Dhamaka (Summer 2023)",
+           "pdpSeoUrl": "Swiss French Dhamaka",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010117",
+           "packageName": "Majestic Australia",
+           "pdpSeoUrl": "Majestic Australia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010304",
+           "packageName": "Sri Lanka Luxury Escape To Wildlife and Beach",
+           "pdpSeoUrl": "Sri Lanka Luxury Escape To Wildlife and Beach",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010394",
+           "packageName": "Novel Norway",
+           "pdpSeoUrl": "Novel Norway",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010312",
+           "packageName": "Sri Lanka Luxury Escape With Whale Watching",
+           "pdpSeoUrl": "Sri Lanka Luxury Escape With Whale Watching",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000926",
+           "packageName": "Swiss Delights (Summer 2023)",
+           "pdpSeoUrl": "Swiss Delights",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010416",
+           "packageName": "Swiss Delights With 03 Nights Mediterranean Cruise (Summer 2023)",
+           "pdpSeoUrl": "Swiss Delights With 03 Nights Mediterranean Cruise",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010219",
+           "packageName": "Serene South Africa With Kruger & Garden Route",
+           "pdpSeoUrl": "Serene South Africa With Kruger & Garden Route",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010032",
+           "packageName": "Best of Australia",
+           "pdpSeoUrl": "Best of Australia",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006025",
+           "packageName": "Wellness Ayurveda at Niraamaya Kovalam 14N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kovalam 14N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010293",
+           "packageName": "Explore Iceland",
+           "pdpSeoUrl": "Explore Iceland",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001982",
+           "packageName": "Highlights of Spain with Mediterranean Cruise (Summer 2023)",
+           "pdpSeoUrl": "Highlights of Spain and Portugal with Mediterranean Cruise",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010421",
+           "packageName": "Highlights of Spain (Summer 2023)",
+           "pdpSeoUrl": "Highlights of Spain",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010495",
+           "packageName": "Highlights of Spain with 4 Nights Mediterranean Cruise - (Summer 2023)",
+           "pdpSeoUrl": "Highlights of Spain with 4 Nights Mediterranean Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006102",
+           "packageName": "Wellness Ayurveda at Niraamaya Kumarakom 14N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kumarakom 14N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010094",
+           "packageName": "Egyptian Extravaganza With Jordan",
+           "pdpSeoUrl": "Egyptian Extravaganza With Jordan",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006024",
+           "packageName": "Wellness Ayurveda at Niraamaya Kovalam 21N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kovalam 21N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006100",
+           "packageName": "Wellness Ayurveda at Niraamaya Kumarakom 21N",
+           "pdpSeoUrl": "Wellness Ayurveda at Niraamaya Kumarakom 21N",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006349",
+           "packageName": "Undiscovered Antarctica",
+           "pdpSeoUrl": "Undiscovered Antarctica",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010154",
+           "packageName": "Undiscovered Antarctica with Rio Carnival",
+           "pdpSeoUrl": "Undiscovered Antarctica with Rio Carnival",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009942",
+           "packageName": "Unexplored Greenland",
+           "pdpSeoUrl": "Unexplored Greenland",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009948",
+           "packageName": "Cordelia Cruises (Mumbai  - High seas - Cochin)",
+           "pdpSeoUrl": "Cordelia Cruises - Mumbai  - High seas - Cochin",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005608",
+           "packageName": "Cordelia Cruise (Mumbai - Goa - Mumbai)",
+           "pdpSeoUrl": "Cordelia Cruise (Mumbai - Goa - Mumbai)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009953",
+           "packageName": "Cordelia Cruise (Mumbai - Highseas - Goa)",
+           "pdpSeoUrl": "Cordelia Cruise (Mumbai - Highseas - Goa)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005609",
+           "packageName": "Cordelia Cruise (Mumbai - Highseas - Mumbai)",
+           "pdpSeoUrl": "Cordelia Cruise (Mumbai - Highseas - Mumbai)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG005605",
+           "packageName": "Cordelia Cruise (Goa - Mumbai - Highseas - Goa)",
+           "pdpSeoUrl": "Cordelia Cruise (Goa - Mumbai - Highseas - Goa)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006085",
+           "packageName": "Cordelia Cruise (Cochin - Lakshadweep - Highseas - Mumbai)",
+           "pdpSeoUrl": "Cordelia Cruise (Cochin - Lakshadweep - Highseas - Mumbai)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009963",
+           "packageName": "Cordelia Cruise (Goa - Lakshadweep - Highseas - Mumbai)",
+           "pdpSeoUrl": "Cordelia Cruise (Goa - Lakshadweep - Highseas - Mumbai)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006082",
+           "packageName": "Cordelia Cruise (Mumbai -  Highseas - Cochin - Lakshadweep - Highseas - Mumbai)",
+           "pdpSeoUrl": "Cordelia Cruise (Mumbai -  Highseas - Cochin - Lakshadweep - Highseas - Mumbai)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006080",
+           "packageName": "Cordelia Cruise (Mumbai - Highseas - Goa - Lakshadweep - Highseas - Mumbai)",
+           "pdpSeoUrl": "Cordelia Cruise (Mumbai - Highseas - Goa - Lakshadweep - Highseas - Mumbai)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009574",
+           "packageName": "Luxury Coorg Kabini Shravanbelgola with Evolveback",
+           "pdpSeoUrl": "Luxury Coorg Kabini Shravanbelgola with Evolveback",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006305",
+           "packageName": "Four Sisters Tour - Assam,Meghalaya, Arunachal And Nagaland",
+           "pdpSeoUrl": "Four Sisters Tour - Assam,Meghalaya, Arunachal And Nagaland",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009732",
+           "packageName": "Kerala Delight - Land Only",
+           "pdpSeoUrl": "Kerala Delight - Land Only - Winter Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG002095",
+           "packageName": "Best Of Nepal",
+           "pdpSeoUrl": "Best Of Nepal ",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009706",
+           "packageName": "Best of Rajasthan - Land Only",
+           "pdpSeoUrl": "Best of Rajasthan - Winter Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010356",
+           "packageName": "Rajasthan Coach Tour - Land Only",
+           "pdpSeoUrl": "Rajasthan Coach Tour",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009827",
+           "packageName": "Kerala Delight - Land Only - Xmas And New Year Special",
+           "pdpSeoUrl": "Kerala Delight - Land Only - Xmas And New Year Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008908",
+           "packageName": "Sri Lanka - Buy 1 Get 1 Free - Land Only",
+           "pdpSeoUrl": " Sri Lanka - BOGO Summer Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009755",
+           "packageName": "Exotic Kashmir with Gulmarg  -  Land Only",
+           "pdpSeoUrl": "Exotic Kashmir with Gulmarg  - Monsoon and Winter Special ",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008903",
+           "packageName": "Magical Ladakh",
+           "pdpSeoUrl": "Magical Ladakh ",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009757",
+           "packageName": "Kerala Delight  With Kovalam - Land Only",
+           "pdpSeoUrl": "Kerala Delight  With Kovalam - Winter Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009869",
+           "packageName": "Experience Andaman with Neil",
+           "pdpSeoUrl": "Experience Andaman with Neil - Land Only",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006283",
+           "packageName": "Discover Jeddah",
+           "pdpSeoUrl": "Discover Jeddah",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009828",
+           "packageName": "Kerala Delight With Kovalam - Land Only - Xmas And New Year Special",
+           "pdpSeoUrl": "Kerala Delight With Kovalam - Land Only - Xmas And New Year Special",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001928",
+           "packageName": "Bhutan Escape (Via Bagdogra) Land Only",
+           "pdpSeoUrl": "Bhutan Escape",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006282",
+           "packageName": "Discover Riyadh",
+           "pdpSeoUrl": "Discover Riyadh",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010424",
+           "packageName": "Premium - Experience Andaman with Neil",
+           "pdpSeoUrl": "Premium - Experience Andaman with Neil - Land Only",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008944",
+           "packageName": "Charismatic Ladakh ",
+           "pdpSeoUrl": "Charismatic Ladakh",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010325",
+           "packageName": "Explore Bhutan (Via Bagdogra) Land Only ",
+           "pdpSeoUrl": "Explore Bhutan (Via Bagdogra)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010488",
+           "packageName": "Romanchak Ladakh  - Land only  (Veg Special)",
+           "pdpSeoUrl": "Romanchak Ladakh  - Land only  (Veg Special)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010158",
+           "packageName": "Sri Lanka - The Wonder of Asia - Land Only",
+           "pdpSeoUrl": "Sri Lanka - The Wonder of Asia",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006380",
+           "packageName": "Discover AlUla With Hegra And Elephant Rock",
+           "pdpSeoUrl": "Discover Alula With Elephant Rock Morning Visit Experience",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006175",
+           "packageName": "Rajasthan Extravaganza with Agra - Land Only",
+           "pdpSeoUrl": "Rajasthan Extravaganza with Agra",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006379",
+           "packageName": "Discover AlUla With Hegra And Stargazing",
+           "pdpSeoUrl": "Discover Alula with Star Gazing Experience",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006547",
+           "packageName": "Great Adventure To Barren Island - Andaman",
+           "pdpSeoUrl": "Great Adventure To Barren Island - Andaman",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006551",
+           "packageName": "Great Adventure To Long Island - Andaman",
+           "pdpSeoUrl": "Great Adventure To Long Island - Andaman",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006295",
+           "packageName": "Gujarat Extravaganza - Land Only",
+           "pdpSeoUrl": "Gujarat Extravaganza",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006285",
+           "packageName": "Glimpse of Saudi Arabia Riyadh and Jeddah ",
+           "pdpSeoUrl": "Glimpse of Saudi Arabia Riyadh and Jeddah ",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008967",
+           "packageName": "Himachal Extravaganza - Land Only",
+           "pdpSeoUrl": "Himachal Extravaganza ",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010433",
+           "packageName": "Turkish Bliss (Summer 2023)",
+           "pdpSeoUrl": "Turkish Bliss",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008888",
+           "packageName": "East USA for All (Summer 2023)",
+           "pdpSeoUrl": "East USA for All Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008886",
+           "packageName": "West USA for All (Summer 2023)",
+           "pdpSeoUrl": "West USA for All Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001015",
+           "packageName": "East Coast of Canada (Summer 2023)",
+           "pdpSeoUrl": "East Coast of Canada Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006552",
+           "packageName": "Great Adventure To Long Island - Luxury - Andaman",
+           "pdpSeoUrl": "Great Adventure To Long Island - Luxury - Andaman",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008915",
+           "packageName": "Eastern Delights (Summer 2023)",
+           "pdpSeoUrl": "Eastern Delights Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008917",
+           "packageName": "Western Delights (Summer 2023)",
+           "pdpSeoUrl": "Western Delights Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009281",
+           "packageName": "Eastern Wonders (Summer 2023)",
+           "pdpSeoUrl": "Eastern Wonders Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000405",
+           "packageName": "Char Dham Yatra By Helicopter",
+           "pdpSeoUrl": "Char Dham Yatra By Helicopter",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009934",
+           "packageName": "Wild Tanzania",
+           "pdpSeoUrl": "Wild Tanzania",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008883",
+           "packageName": "Super Budget Tour of USA (Summer 2023)",
+           "pdpSeoUrl": "Super Budget Tour of USA Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009285",
+           "packageName": "Western Wonders (Summer 2023)",
+           "pdpSeoUrl": "Western Wonders Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG001014",
+           "packageName": "Best of Canadian Rockies (Summer 2023)",
+           "pdpSeoUrl": "Best of Canadian Rockies Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008948",
+           "packageName": "Eastern Delights with Orlando (Summer 2023)",
+           "pdpSeoUrl": "Eastern Delights with Orlando Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009283",
+           "packageName": "Eastern Wonders with Orlando (Summer 2023)",
+           "pdpSeoUrl": "Eastern Wonders with Orlando Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008899",
+           "packageName": "Grand Bargain America (Summer 2023)",
+           "pdpSeoUrl": "Grand Bargain America Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010455",
+           "packageName": "Eastern Delights with Orlando and Bahamas Cruise (Summer 2023)",
+           "pdpSeoUrl": "Eastern Delights with Orlando and Bahamas Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008890",
+           "packageName": "Super Budget Tour of USA with Orlando (Summer 2023)",
+           "pdpSeoUrl": "Super Budget Tour of USA with Orlando Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010461",
+           "packageName": "Eastern Wonders with Orlando and Bahamas Cruise (Summer 2023)",
+           "pdpSeoUrl": "Eastern Wonders with Orlando and Bahamas Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010014",
+           "packageName": "Scenic Australia (Winter)",
+           "pdpSeoUrl": "Scenic Australia (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010447",
+           "packageName": "Wonderful Saudi Arabia",
+           "pdpSeoUrl": "Wonderful Saudi Arabia",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009298",
+           "packageName": "Best of Canadian Rockies With Alaskan Cruise (Summer 2023)",
+           "pdpSeoUrl": "Best of Canadian Rockies With Alaskan Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008891",
+           "packageName": "USA For All With Orlando And Bahamas Cruise (Summer 2023)",
+           "pdpSeoUrl": "USA For All With Orlando And Bahamas Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008897",
+           "packageName": "Grand Bargain Tour Of USA with Orlando (Summer 2023)",
+           "pdpSeoUrl": "Grand Bargain Tour Of USA with Orlando Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG000140",
+           "packageName": "American Grandeur (Summer 2023)",
+           "pdpSeoUrl": "American Grandeur Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010527",
+           "packageName": "Albelu America - Gujarati Special (Summer 2023)",
+           "pdpSeoUrl": "Albelu America - Gujarati Special Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010530",
+           "packageName": "Albelu America With Orlando - Gujarati Special (Summer 2023)",
+           "pdpSeoUrl": "Albelu America With Orlando - Gujarati Special Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010532",
+           "packageName": "Albelu America With Bahamas Cruise - Gujarati Special (Summer 2023)",
+           "pdpSeoUrl": "Albelu America With Bahamas Cruise - Gujarati Special Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG002036",
+           "packageName": "South American Delights",
+           "pdpSeoUrl": "South American Delights",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008922",
+           "packageName": "Grand Bargain Tour Of USA with Orlando and Bahamas Cruise (Summer 2023)",
+           "pdpSeoUrl": "Grand Bargain Tour Of USA with Orlando and Bahamas Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009294",
+           "packageName": "Canadian Delights With Alaskan Cruise (Summer 2023)",
+           "pdpSeoUrl": "Canadian Delights With Alaskan Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009287",
+           "packageName": "American Grandeur with Orlando (Summer 2023)",
+           "pdpSeoUrl": "American Grandeur with Orlando Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010533",
+           "packageName": "Albelu America With Bahamas Cruise and Orlando - Gujarati Special (Summer 2023)",
+           "pdpSeoUrl": "Albelu America With Bahamas Cruise and Orlando - Gujarati Special Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009290",
+           "packageName": "American Grandeur with Orlando and Bahamas Cruise (Summer 2023)",
+           "pdpSeoUrl": "American Grandeur with Orlando and Bahamas Cruise Summer 2023",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG002037",
+           "packageName": "South American Delights with Amazon",
+           "pdpSeoUrl": "South American Delights with Amazon",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009297",
+           "packageName": "South American Delights with Add On Ushuaia and Patagonia",
+           "pdpSeoUrl": "South American Delights with Add On Ushuaia and Patagonia",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009296",
+           "packageName": "South American Delights with Amazon, Ushuaia and Patagonia",
+           "pdpSeoUrl": "South American Delights with Amazon - Ushuaia and Patagonia",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009521",
+           "packageName": "Uttarakhand - Trek to Chopta Tungnath Chandrashilla Peak Deoriatal",
+           "pdpSeoUrl": "Uttarakhand - Trek to Chopta Tungnath Chandrashilla Peak Deoriatal",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003525",
+           "packageName": "Incredible Bhutan",
+           "pdpSeoUrl": "Incredible Bhutan",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG006197",
+           "packageName": "Ladakh Extravaganza",
+           "pdpSeoUrl": "Ladakh Extravaganza",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG008947",
+           "packageName": "Kashmir Extravaganza with Vaishno Devi - Land Only",
+           "pdpSeoUrl": "Kashmir Extravaganza with Vaishno Devi",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009095",
+           "packageName": "Spanish Ring (Europamundo)",
+           "pdpSeoUrl": "Spanish Ring (Europamundo)",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010071",
+           "packageName": "South India Extravaganza - Land Only",
+           "pdpSeoUrl": "South India Extravaganza",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010167",
+           "packageName": "French and Swiss Spirit (Europamundo)",
+           "pdpSeoUrl": "French and Swiss Spirit (Europamundo)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009043",
+           "packageName": "Madhya Pradesh Extravaganza - Land Only",
+           "pdpSeoUrl": "Madhya Pradesh Extravaganza",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009822",
+           "packageName": "East USA for All",
+           "pdpSeoUrl": "East USA for All",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG003456",
+           "packageName": "Do Dham Yatra By Helicopter",
+           "pdpSeoUrl": "Do Dham Yatra By Helicopter",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009821",
+           "packageName": "West USA for All",
+           "pdpSeoUrl": "West USA for All",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010354",
+           "packageName": "From Seoul To Hiroshima by Europamundo",
+           "pdpSeoUrl": "From Seoul To Hiroshima by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010446",
+           "packageName": "Enchanting AlUla",
+           "pdpSeoUrl": "Enchanting AlUla",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010403",
+           "packageName": "Essential Japan by Europamundo",
+           "pdpSeoUrl": "Essential Japan by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010082",
+           "packageName": "Scenic New Zealand (Winter)",
+           "pdpSeoUrl": "Scenic New Zealand (Winter)",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010364",
+           "packageName": "Contrast Of Japan by Europamundo",
+           "pdpSeoUrl": "Contrast Of Japan by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010357",
+           "packageName": "Capitals of Japan end Kyoto by Europamundo",
+           "pdpSeoUrl": "Capitals of Japan end Kyoto by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010404",
+           "packageName": "Tokyo Kyoto Alps & Fuji by Europamundo",
+           "pdpSeoUrl": "Tokyo Kyoto Alps & Fuji by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009829",
+           "packageName": "Super Budget America",
+           "pdpSeoUrl": "Super Budget America",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010378",
+           "packageName": "Contrast Of Japan End Tokyo by Europamundo",
+           "pdpSeoUrl": "Contrast Of Japan End Tokyo by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010358",
+           "packageName": "Capitals of Japan by Europamundo",
+           "pdpSeoUrl": "Capitals of Japan by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010352",
+           "packageName": "Classical Korea And Japan End Tokyo by Europamundo",
+           "pdpSeoUrl": "Classical Korea And Japan End Tokyo by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009831",
+           "packageName": "Super Budget America with Orlando",
+           "pdpSeoUrl": "Super Budget America with Orlando",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010342",
+           "packageName": "Lights of Japan and Korea by Europamundo",
+           "pdpSeoUrl": "Lights of Japan and Korea by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG010359",
+           "packageName": "Capitals of Japan With Mount Fuji by Europamundo",
+           "pdpSeoUrl": "Capitals of Japan With Mount Fuji by Europamundo",
+           "productId": 4
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG002366",
+           "packageName": "Turkiye (Europamundo)",
+           "pdpSeoUrl": "Turkey - Europamundo",
+           "productId": 11
+         },
+         {
+           "isDynamicPackage": "N",
+           "packageId": "PKG009103",
+           "packageName": "Turkish Panorama (Europamundo)",
+           "pdpSeoUrl": "Turkish Panorama (Europamundo)",
+           "productId": 11
+         }
+       ],
+       "searchLatitude": 0.0,
+       "searchLongitude": 0.0,
+       "searchString": "Family",
+       "searchType": "THEME",
+       "stateCode": "",
+       "stateName": "",
+       "themeName": [
+   
+       ]
+     },
+     {
+       "pkgnameIdMappingList": [
+   
+       ],
+       "searchLatitude": 0.0,
+       "searchLongitude": 0.0,
+       "searchString": "ALL THEMES",
+       "searchType": "ALL THEMES",
+       "themeName": [
+         "Domestic Chirstmas And New Year Special",
+         "Family",
+         "Couple",
+         "Cruise",
+         "Cultural",
+         "Adventure",
+         "Kidsfriendly",
+         "Honeymoon",
+         "Festivalandevents",
+         "Weekendbreaks",
+         "Spiritual",
+         "Wildlife",
+         "Luxury",
+         "Customizable Jammu And Kashmir",
+         "Youth Special",
+         "Customizable Kerala",
+         "Short Breaks In Andaman"
+       ]
+     }
+   ]
+ }
