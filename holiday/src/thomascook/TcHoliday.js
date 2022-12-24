@@ -6,7 +6,10 @@ const TcHoliday = () => {
     var [apiCall, setApiCall] = useState(false);
     var [otherPackagesListStartIndex, setOtherPackagesListStartIndex] = useState(0);
     var [searchData, setSearchData] = useState({ "destination": [], "holidayPackages": [], "packages": [], "packagesHeading": [], "themes": [], "otherPackagesList": [], "moreThemes": [] });
-
+    //CSS Style
+    const mystyle={
+        listStyleType:'none'
+    }
 
     if (text.length == 0) {
         resetSearchData();
@@ -125,7 +128,13 @@ const TcHoliday = () => {
 
                         packageMappingList.searchType = holiday.searchType;
                         packageMappingList.searchString = holiday.searchString;
+                        packageMappingList.cityName = holiday.cityName;
+                        packageMappingList.countryCode = holiday.countryCode;
+                        packageMappingList.countryName = holiday.countryName;
+                        packageMappingList.continentName = holiday.continentName;
                         packageMappingList.isOtherPackage = isOtherPackage;
+                        
+
                         searchData.holidayPackages.push(packageMappingList);
 
 
@@ -169,8 +178,11 @@ const TcHoliday = () => {
         otherPackagesListStartIndex = 0;
         searchData.moreThemes = [];
     }
-    // first argument is a string to cache and track the query result
 
+    function showTextInSearchBox(selectedValue){
+        setText(selectedValue);
+        resetSearchData();
+    }
 
 
     return (<>
@@ -178,17 +190,18 @@ const TcHoliday = () => {
             <div className="container">
 
                 <form className="d-flex" role="search">
-                    <input className="form-control me-2" type="search" value={text} placeholder="Search" onChange={(e) => { setText(e.target.value); autoSuggestApiCall() }} aria-label="Search" />
+                    <input className="form-control me-2" type="search" value={text} placeholder="Destination e.g. Europe / Theme e.g. Adventure" onChange={(e) => { setText(e.target.value); autoSuggestApiCall() }} aria-label="Search" />
                 </form>
 
                 <div>
-                    <table className='table table-striped'>
-                        <tbody>
+                    <div className='table table-striped'>
+                        <div>
+                            <div>
                             {/* Destination Heading Start */}
                             {text.length > 1 && searchData.destination.length > 0 && (
-                                <tr>
-                                    <td><b>Destination</b></td>
-                                </tr>
+                                <ul style={mystyle}>
+                                    <li ><b>Destination</b></li>
+                                </ul>
                             )}
                             {/* Destination Heading End */}
                             {/* All Destinations  Start */}
@@ -196,9 +209,9 @@ const TcHoliday = () => {
 
                                 searchData.destination.map((dest, idx) => {
                                     return (
-                                        <tr key={idx} >
-                                            <td><a>  {dest.searchString} </a></td>
-                                        </tr>
+                                        <ul style={mystyle}key={idx} >
+                                            <li onClick={() => showTextInSearchBox(dest.searchString)}><a >  {dest.searchString} </a></li>
+                                        </ul>
                                     )
                                 })
 
@@ -207,9 +220,9 @@ const TcHoliday = () => {
 
                             {/* Theme Heading Start */}
                             {text.length > 1 && searchData.themes.length > 0 && (
-                                <tr>
-                                    <td><b>Theme</b></td>
-                                </tr>
+                                <ul style={mystyle}>
+                                    <li><b>Theme</b></li>
+                                </ul>
                             )}
                             {/* Theme Heading End */}
                             {/*  THEME Start */}
@@ -218,34 +231,34 @@ const TcHoliday = () => {
                                 searchData.themes.map((theme, idx) => {
                                     return (
                                         theme.searchString !== "" && theme.searchString !== "ALL THEMES" && (
-                                            <tr key={idx} >
-                                                <td><a>  {theme.searchString} </a></td>
-                                            </tr>
+                                            <ul style={mystyle}key={idx} >
+                                                <li onClick={() => showTextInSearchBox(theme.searchString)}><a>  {theme.searchString} </a></li>
+                                            </ul>
                                         )
                                     )
                                 })
 
                             }
                             {/* THEME End */}
-
+                            </div>
                             {/* AllPackages Start*/}
                             {text.length > 1 && searchData.packagesHeading.length > 0 && (
                                 searchData.packagesHeading.map((heading, headingIndex) => {
                                     return (
-                                        <tr key={"pacHeading_" + headingIndex}>
+                                        <div key={"packHeading_" + headingIndex}>
                                             {(heading.minIndex === otherPackagesListStartIndex) && (heading.isOtherPackage === true) ?
 
-                                                <tr>
-                                                    <td>
+                                                <ul style={mystyle}>
+                                                    <li>
                                                         <b>{heading.packageHeading}</b>
-                                                    </td>
-                                                </tr>
+                                                    </li>
+                                                </ul>
                                                 :
-                                                <tr>
-                                                    <td>
+                                                <ul style={mystyle}>
+                                                    <li>
                                                         <b>{heading.isOtherPackage === false && heading.packageHeading}</b>
-                                                    </td>
-                                                </tr>
+                                                    </li>
+                                                </ul>
                                             }
 
 
@@ -254,13 +267,13 @@ const TcHoliday = () => {
 
                                                 return (
                                                     holidayPackIndex >= heading.minIndex && holidayPackIndex <= heading.maxIndex && (
-                                                        <tr key={holidayPack.packageId + "_" + holidayPackIndex}>
-                                                            <td>{holidayPack.packageName}</td>
-                                                        </tr>
+                                                        <ul style={mystyle}key={holidayPack.packageId + "_" + holidayPackIndex}>
+                                                            <li onClick={() => showTextInSearchBox(holidayPack.packageName)}>{holidayPack.packageName}</li>
+                                                        </ul>
                                                     ));
 
                                             })}
-                                        </tr>
+                                        </div>
                                     );
                                 })
                             )}
@@ -269,15 +282,15 @@ const TcHoliday = () => {
 
                                 return (
 
-                                    <tr key={"moretheme_" + moreThemeIndex}>
-                                        <td>{moreTheme}</td>
-                                    </tr>
+                                    <ul style={mystyle}key={"moretheme_" + moreThemeIndex}>
+                                        <li>{moreTheme}</li>
+                                    </ul>
                                 )
                             })}
                             {/* AllPackages END*/}
 
-                        </tbody>
-                    </table>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
