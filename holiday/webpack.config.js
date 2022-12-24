@@ -73,14 +73,16 @@ module.exports = {
         }),
         new CleanWebpackPlugin(),
     ],
-
-    
-    devServer: {
-        host: 'localhost',
-        port: port,
-        historyApiFallback: true,
-        open: true,
-        static: __dirname,
-      }
-
+    //Below code  is used to reduce the file size 
+      optimization: {
+        splitChunks: {
+          cacheGroups: {
+            vendors: {
+              test: /[\\/]node_modules[\\/]/, ///< put all used node_modules modules in this chunk
+              name: "nodeMudulesChunk", ///< name of bundle
+              chunks: "all" ///< type of code to put in this bundle
+            }
+          }
+        }
+      },
 }
