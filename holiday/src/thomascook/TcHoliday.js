@@ -1,15 +1,13 @@
 import { useState } from "react";
 import Get  from "./API/CommonApi"
+import Widget from "./widget";
 
 const TcHoliday = () => {
     let [text, setText] = useState("");
     var [apiCall, setApiCall] = useState(false);
     var [otherPackagesListStartIndex, setOtherPackagesListStartIndex] = useState(0);
     var [searchData, setSearchData] = useState({ "destination": [], "holidayPackages": [], "packages": [], "packagesHeading": [], "themes": [], "otherPackagesList": [], "moreThemes": [] });
-    //CSS Style
-    const mystyle={
-        listStyleType:'none'
-    }
+    
 
     if (text.length == 0) {
         resetSearchData();
@@ -190,115 +188,7 @@ const TcHoliday = () => {
 
 
     return (<>
-        <div>
-            <div className="container">
-
-                <form className="d-flex" role="search">
-                    <input className="form-control me-2" type="search" value={text} placeholder="Destination e.g. Europe / Theme e.g. Adventure" onChange={(e) => { setText(e.target.value); Search() }} aria-label="Search" />
-                </form>
-
-                <div>
-                    <div className='table table-striped'>
-                        <div>
-                            <div>
-                            {/* Destination Heading Start */}
-                            {text.length > 1 && searchData.destination.length > 0 && (
-                                <ul style={mystyle}>
-                                    <li ><b>Destination</b></li>
-                                </ul>
-                            )}
-                            {/* Destination Heading End */}
-                            {/* All Destinations  Start */}
-                            {
-
-                                searchData.destination.map((dest, idx) => {
-                                    return (
-                                        <ul style={mystyle}key={idx} >
-                                            <li onClick={() => showTextInSearchBox(dest.searchString)}><a >  {dest.searchString} </a></li>
-                                        </ul>
-                                    )
-                                })
-
-                            }
-                            {/* All Destinations  End */}
-
-                            {/* Theme Heading Start */}
-                            {text.length > 1 && searchData.themes.length > 0 && (
-                                <ul style={mystyle}>
-                                    <li><b>Theme</b></li>
-                                </ul>
-                            )}
-                            {/* Theme Heading End */}
-                            {/*  THEME Start */}
-                            {
-
-                                searchData.themes.map((theme, idx) => {
-                                    return (
-                                        theme.searchString !== "" && theme.searchString !== "ALL THEMES" && (
-                                            <ul style={mystyle}key={idx} >
-                                                <li onClick={() => showTextInSearchBox(theme.searchString)}><a>  {theme.searchString} </a></li>
-                                            </ul>
-                                        )
-                                    )
-                                })
-
-                            }
-                            {/* THEME End */}
-                            </div>
-                            {/* AllPackages Start*/}
-                            {text.length > 1 && searchData.packagesHeading.length > 0 && (
-                                searchData.packagesHeading.map((heading, headingIndex) => {
-                                    return (
-                                        <div key={"packHeading_" + headingIndex}>
-                                            {(heading.minIndex === otherPackagesListStartIndex) && (heading.isOtherPackage === true) ?
-
-                                                <ul style={mystyle}>
-                                                    <li>
-                                                        <b>{heading.packageHeading}</b>
-                                                    </li>
-                                                </ul>
-                                                :
-                                                <ul style={mystyle}>
-                                                    <li>
-                                                        <b>{heading.isOtherPackage === false && heading.packageHeading}</b>
-                                                    </li>
-                                                </ul>
-                                            }
-
-
-
-                                            {searchData.holidayPackages.map(function (holidayPack, holidayPackIndex) {
-
-                                                return (
-                                                    holidayPackIndex >= heading.minIndex && holidayPackIndex <= heading.maxIndex && (
-                                                        <ul style={mystyle}key={holidayPack.packageId + "_" + holidayPackIndex}>
-                                                            <li onClick={() => showTextInSearchBox(holidayPack.packageName)}>{holidayPack.packageName}</li>
-                                                        </ul>
-                                                    ));
-
-                                            })}
-                                        </div>
-                                    );
-                                })
-                            )}
-
-                            {text.length > 1 && searchData.moreThemes.length > 0 && searchData.moreThemes.map(function (moreTheme, moreThemeIndex) {
-
-                                return (
-
-                                    <ul style={mystyle}key={"moretheme_" + moreThemeIndex}>
-                                        <li>{moreTheme}</li>
-                                    </ul>
-                                )
-                            })}
-                            {/* AllPackages END*/}
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
+       <Widget text = {text} setText = {setText} Search ={Search} otherPackagesListStartIndex = {otherPackagesListStartIndex} searchData = {searchData} showTextInSearchBox = {showTextInSearchBox}/>
     </>);
 }
 
