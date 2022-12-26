@@ -15,19 +15,19 @@ const TcHoliday = () => {
         resetSearchData();
     }
 
-    function autoSuggestApiCall() {
+    function Search() {
         setApiCall(false);
         text = text.trim();
         if (text.length > 1 && text !== "") {
             if (apiCall == false) {
-                callAPI(text);
+                holidayAutoSuggest(text);
             }
 
         } else {
             resetSearchData();
         }
     }
-    function callAPI(text) {
+    function holidayAutoSuggest(text) {
         let URL = 'http://localhost:3001/package';
         Get(URL).then((response) =>{
             autoSuggestSuccess(response);
@@ -194,7 +194,7 @@ const TcHoliday = () => {
             <div className="container">
 
                 <form className="d-flex" role="search">
-                    <input className="form-control me-2" type="search" value={text} placeholder="Destination e.g. Europe / Theme e.g. Adventure" onChange={(e) => { setText(e.target.value); autoSuggestApiCall() }} aria-label="Search" />
+                    <input className="form-control me-2" type="search" value={text} placeholder="Destination e.g. Europe / Theme e.g. Adventure" onChange={(e) => { setText(e.target.value); Search() }} aria-label="Search" />
                 </form>
 
                 <div>
