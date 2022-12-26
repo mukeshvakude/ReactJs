@@ -1,5 +1,5 @@
 import { useState } from "react";
-import axios from 'axios';
+import Get  from "./API/CommonApi"
 
 const TcHoliday = () => {
     let [text, setText] = useState("");
@@ -28,11 +28,15 @@ const TcHoliday = () => {
         }
     }
     function callAPI(text) {
-        //,{params: {searchString : text}}
-        axios.get('http://localhost:3001/package').then((response) => {
-            autoSuggestSuccess(response.data);
+        let URL = 'http://localhost:3001/package';
+        Get(URL).then((response) =>{
+            autoSuggestSuccess(response);
             return response;
-        });
+        })
+        .catch((error) =>{
+            console.log("error",error);
+            return error;
+        }); 
         setApiCall(true);
     }
     function autoSuggestSuccess(responseData) {
@@ -62,7 +66,7 @@ const TcHoliday = () => {
 
                 searchType = resData.searchType;
                 searchString = resData.searchString;
-                console.log("resData" + resData);
+            
                 if (searchType !== "THEME" && searchType !== "Z_NAME" && searchString !== "ALL THEMES" && searchString !== "") {
                     if (allDestination.length > 0) {
                         searchData.destination.push(resData);
@@ -110,7 +114,7 @@ const TcHoliday = () => {
 
 
         }
-
+        setSearchData(searchData);
         console.log("Search Object", searchData);
     }
 
