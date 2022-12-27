@@ -7,7 +7,7 @@ const TcHoliday = () => {
     var [apiCall, setApiCall] = useState(false);
     var [otherPackagesListStartIndex, setOtherPackagesListStartIndex] = useState(0);
     var [searchData, setSearchData] = useState({ "destination": [], "holidayPackages": [], "packages": [], "packagesHeading": [], "themes": [], "otherPackagesList": [], "moreThemes": [] });
-    
+    var [selectedSearchData, setSelectedSearchData] = useState({});
 
     if (text.length == 0) {
         resetSearchData();
@@ -181,14 +181,14 @@ const TcHoliday = () => {
         searchData.moreThemes = [];
     }
 
-    function showTextInSearchBox(selectedValue){
+    function showTextInSearchBox(selectedValue ,selectedsearchdata){
+        // selectedSearchData = selectedsearchdata;  
+        setSelectedSearchData(selectedsearchdata);
         setText(selectedValue);
         resetSearchData();
     }
-
-
     return (<>
-       <Widget text = {text} setText = {setText} Search ={Search} otherPackagesListStartIndex = {otherPackagesListStartIndex} searchData = {searchData} showTextInSearchBox = {showTextInSearchBox}/>
+       <Widget text = {text} setText = {setText} Search ={Search} otherPackagesListStartIndex = {otherPackagesListStartIndex} searchData = {searchData} showTextInSearchBox = {showTextInSearchBox} selectedSearchData ={selectedSearchData}/>
     </>);
 }
 
