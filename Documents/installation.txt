@@ -21,3 +21,4 @@ Notes :
 10) npm install css-minimizer-webpack-plugin --save-dev // compress css file into seperate file
 11)  npm i pullstate -g  //use to create store
 12) npm i react-query // use intead of useEffect
+13) npm install eslint-plugin-react-hooks --save-dev // shows hooks error and warnings
