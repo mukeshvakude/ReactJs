@@ -1,11 +1,12 @@
 
 import './App.css';
-import Navbar from './Component/Navbar';
+import Login from './Component/Login';
+
 
 function App() {
   return (
     <>
-    <Navbar title ="Thomascook"/>
+    <Login/>
     </>
   );
 }
