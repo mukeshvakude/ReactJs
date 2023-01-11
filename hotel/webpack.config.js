@@ -11,16 +11,15 @@ module.exports = {
     // },
     entry: {
         
-       main :  "/src/index.js"
-       
+       hotel :  "/src/index.js"
+      
     },
     resolve: {
         extensions: ['.js', '.css', '.scss','.jsx']
       },
     output: {
         path: path.join(__dirname, '/dist'),
-        filename: "[name].js",
-        publicPath: '/holiday'
+        filename: "[name].js"
     },
 
     module: {
@@ -42,11 +41,7 @@ module.exports = {
                     },
                     {
                         loader: 'css-loader',
-                        options: {
-                            modules: true,
-                            localsConvention: 'camelCase',
-                            sourceMap: true
-                        }
+                        
                     }
                 ]
             }
@@ -86,4 +81,9 @@ module.exports = {
           }
         }
       },
+      performance: {
+        hints: false,
+        maxEntrypointSize: 1024000,
+        maxAssetSize: 1024000
+    }
 }

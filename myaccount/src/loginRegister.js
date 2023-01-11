@@ -1,9 +1,14 @@
 import React, { useState } from "react";
 
 const LoginRegister = () => {
-  let [loginFormFields, setloginFormFields] = useState({ loginId: "", password: "", oneTimePassword: "" }); //Fields
+  let [loginId, SetloginId] = useState("");
+  let [passwordRadio, setpasswordRadio] = useState(true);
   let [otpradio, setotpradio] = useState(false);
-  
+  let [isLoginClicked, setIsLoginClicked] = useState(false);
+  let [password, setPassword] = useState("");
+  let [oneTimePasswprd, setOneTimePasswprd] = useState("");
+  let [isRegisterClicked, setIsRegisterClicked] = useState(false);
+  let [isLoginForm, setIsLoginForm] = useState(true);
   let [isRegisterFormCliked, setIsRegisterFormCliked] = useState(false);
   let [registerTitle, setRegisterTitle] = useState("Mr");
   let [registerFirstName, setRegisterFirstName] = useState("");
@@ -14,77 +19,22 @@ const LoginRegister = () => {
   let [registerEmailId, setRegisterEmailId] = useState("");
   let [registerMobileNo, setRegisterMobile] = useState("");
 
-  let [isRegisterLink, setisRegisterLink] = useState(false);
-  let [isLoginLink, setisLoginLink] = useState(true);
-  let [passwordradio, setpasswordradio] = useState(true);
-  let [loginFormSubmited, setloginFormSubmited] = useState(false);
-  let loginformInputs = [
-    {
-      id: 1,
-      type: "text",
-      placeholder: "Email ID will be your username",
-      className: "form-control",
-      maxLength: 50,
-      name: "loginId",
-      lableValue: "Your Email Address",
-      errorMessage: " Please Enter Valid Email Id",
-      isErrorMessage: loginFormFields.loginId.length === 0 && loginFormSubmited ? true : false,
-      isChecked: true
+  function validateLoginPopUpForm() {
+    if (
+      (password.length > 0 && loginId.length > 0) ||
+      (oneTimePasswprd.length > 0 && loginId.length > 0)
+    ) {
+      return true;
+    } else {
+      return false;
+    }
+  }
 
-    },
-    {
-      id: 2,
-      type: "radio",
-      className: "form-control",
-      nameValue: "password",
-      name: "passwordRadioStatus",
-      isChecked: passwordradio
-
-
-    },
-    {
-      id: 3,
-      type: "radio",
-      className: "form-control",
-      nameValue: "OTP",
-      name: "otpRadioStatus",
-      isChecked: otpradio
-
-    },
-    {
-      id: 4,
-      type: "Password",
-
-      placeholder: "Password",
-      className: "form-control",
-      maxLength: 50,
-      name: "password",
-      errorMessage: "Please Enter Valid pasword",
-      isErrorMessage: loginFormFields.password.length === 0 && passwordradio && loginFormSubmited ? true : false,
-      isChecked: passwordradio
-
-
-    },
-    {
-      id: 5,
-      type: "password",
-      placeholder: "OTP",
-      className: "form-control",
-      maxLength: 50,
-      name: "oneTimePassword",
-      errorMessage: "Please Enter Valid OTP",
-      isErrorMessage: loginFormFields.oneTimePassword.length === 0 && otpradio && loginFormSubmited ? true : false,
-      isChecked: otpradio
-    },
-
-  ];
-  console.log(loginFormFields)
-  
   return (
     <>
       <div
-        className=" login_reg_popup"
-
+        className="modal fade login_reg_popup"
+        tabIndex="-1"
         role="dialog"
         id="loginRegisterPopup"
         data-backdrop="static"
@@ -104,96 +54,186 @@ const LoginRegister = () => {
               <div className="modal-title">Login to Thomascook</div>
             </div>
             <div className="modal-body  login_reg_body">
-              {isLoginLink && (
+              {isLoginForm && (
                 <div className="login_form_holder login_reg_div">
                   <form className="login_reg_form">
-                    {loginformInputs.map((input) => {
-
-                      return (
-                        <>
-                          {(input.id !== 2 && input.id !== 3) && (
-                            <>
-                              {input.isChecked && (
-                                <input {...input} onChange={(event) => {
-                                  setloginFormSubmited(false);
-                                  setloginFormFields({ ...loginFormFields, [event.target.name]: event.target.value });
-                                }} />
-
-                              )}
-                              {
-                                (input.isChecked && input.id === 5 && otpradio) && (
-                                  <div className="form_control_grp">
-                                    <a href="/" className="resend_otp" id="ResendOTP">
-                                      Resend OTP
-                                    </a>
-                                  </div>
-
-                                )
-                              }
-
-                            </>
-                          )}
-
-
-                          {(input.id === 2 || input.id === 3) && (
-
-                            <div key={input.id}>
-
-                              {input.id === 2 ? (
-
-                                <div>
-
-                                  <span> {input.nameValue}</span>
-
-                                  <input
-
-                                    type="radio"
-
-                                    name="loginType"
-
-                                    checked={passwordradio == true}
-
-                                    onChange={() => {
-
-                                      setotpradio(false);
-
-                                      setpasswordradio(true);
-
-                                    }}
-
-                                  />
-
-                                </div>
-
-                              ) : (
-
-                                <div>
-
-                                  <span> {input.nameValue}</span>
-                                  <input type="radio" name="loginType" checked={otpradio == true} onChange={() => { setotpradio(true); setpasswordradio(false); }} />
-                                </div>
-
-                              )}
-
-                            </div>
-                          )
-
-
-                          }
-                        </>
-                      );
-                    })
-                    }
-                    <button type="submit" className="login_reg_form_btn" id="loginButton">{" "} Login</button>
-                    <div className="form_footer">
-                      <p>Don't have an account?</p>{" "}
-                      <a className="show_register_form" onClick={() => { setisRegisterLink(true); setisLoginLink(false); }}>Register</a>
+                    <div className="form_control_grp">
+                      <label>Your Email Address hello</label>
+                      <input
+                        type="text"
+                        placeholder="Email ID will be your username"
+                        className="form-control"
+                        id="loginId"
+                        maxLength="50"
+                        autoComplete="off"
+                        value={loginId}
+                        onChange={(e) => {
+                          SetloginId(e.target.value);
+                          setIsLoginClicked(false);
+                        }}
+                      />
+                      {loginId.length == 0 && isLoginClicked && (
+                        <div className="invalid-msg-wrapperno emailinvalid">
+                          <p className="invalid-msg-content">
+                            Please Enter Valid Email Id
+                          </p>
+                        </div>
+                      )}
                     </div>
+
+                    <div className="tc_login_otp_details">
+                      <div className="tc_login_otp_three tc_login_otp_details_login">
+                        {" "}
+                        Login With{" "}
+                      </div>
+
+                      <div className="pull-rightt">
+                        <div className="tc_login_otp_three tc_login_otp_details_pass">
+                          <input
+                            type="radio"
+                            name="loginType"
+                            checked={passwordRadio == true}
+                            onChange={() => {
+                              setotpradio(false);
+                              setpasswordRadio(true);
+                            }}
+                          />
+                          <span> Password </span>
+                        </div>
+                        <div className="tc_login_otp_three tc_login_otp_details_otp">
+                          <input
+                            type="radio"
+                            name="loginType"
+                            checked={otpradio == true}
+                            onChange={() => {
+                              setpasswordRadio(false);
+                              setotpradio(true);
+                            }}
+                          />
+                          <span> OTP </span>
+                        </div>
+                      </div>
+                    </div>
+                    {passwordRadio && (
+                      <div className="form_control_grp" id="pswddiv">
+                        <input
+                          type="password"
+                          placeholder="Password"
+                          className="form-control tcloginDiv"
+                          value={password}
+                          id="existloginPass"
+                          onChange={(event) => {
+                            setPassword(event.target.value);
+                            setIsLoginClicked(false);
+                          }}
+                        />
+                        {password.length === 0 && isLoginClicked && (
+                          <p className="invalid-msg-content">
+                            Please Enter Passwprd
+                          </p>
+                        )}
+                      </div>
+                    )}
+                    {otpradio && (
+                      <div className="otpAreaLogin">
+                        <div className="form_control_grp" id="otpdiv">
+                          <input
+                            type="password"
+                            placeholder="OTP"
+                            className="form-control tcloginDiv"
+                            id="loginOTP"
+                            value={oneTimePasswprd}
+                            onChange={(event) => {
+                              setOneTimePasswprd(event.target.value);
+                              setIsLoginClicked(false);
+                            }}
+                          />
+                          {oneTimePasswprd.length === 0 && isLoginClicked && (
+                            <p className="invalid-msg-content">
+                              Please Enter OTP
+                            </p>
+                          )}
+                        </div>
+                        <div className="form_control_grp">
+                          <a href="/" className="resend_otp" id="ResendOTP">
+                            Resend OTP
+                          </a>
+                        </div>
+                      </div>
+                    )}
+                    <div className="invalid-msg-wrapper server_error_login">
+                      <p className="invalid-msg-content">
+                        We're unable to sign you in because the password entered
+                        incorrect.
+                      </p>
+                    </div>
+
+                    <div className="form_control_grp SucessMess hide">
+                      <p>
+                        Your request for OTP will be sent to registered email id
+                        and mobile number, if not registered please do the same.
+                      </p>
+                    </div>
+                    <div className="form_control_grp otplimit hide">
+                      <p className="invalid-msg-content">
+                        You exceed the OTP limit. Please try again after some
+                        time
+                      </p>
+                    </div>
+
+                    <div
+                      className="form-group mtop10 travel-price1 hide"
+                      id="captchalogin"
+                    >
+                      <label>
+                        Type the characters you see in the image below
+                      </label>
+                      <div className="clearfix"></div>
+                      <img id="captcha" src="" width="200" alt="captcha" />
+                      <div className="clearfix"></div>
+                      <input
+                        type="text"
+                        required
+                        className="form-control"
+                        id="captchaValue"
+                        name="captchaValue"
+                      />
+                      <span className="field-error"></span>
+                    </div>
+                    <div
+                      id="loginErrorMessage"
+                      className="error-info-wrapper"
+                    ></div>
+
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setIsLoginClicked(true);
+                        validateLoginPopUpForm();
+                      }}
+                      className="login_reg_form_btn"
+                      id="loginButton"
+                    >
+                      Login
+                    </button>
                   </form>
+
+                  <div className="form_footer">
+                    <p>Don't have an account?</p>{" "}
+                    <a
+                      className="show_register_form"
+                      onClick={() => {
+                        setIsRegisterClicked(true);
+                        setIsLoginForm(false);
+                      }}
+                    >
+                      Register
+                    </a>
+                  </div>
                 </div>
               )}
 
-              {isRegisterLink && (
+              {isRegisterClicked && (
                 <div className="openRegisterForm">
                   <div className="reg_form_holder login_reg_div">
                     <form className="form-horizontal" id="registerFormReset">
@@ -218,7 +258,7 @@ const LoginRegister = () => {
                             <option value="Mast">Master</option>
                             <option value="Miss">Miss</option>
                           </select>
-                          { }
+                          {}
                         </div>
                         <div className="form_control_grp">
                           <label>First Name</label>
@@ -226,7 +266,7 @@ const LoginRegister = () => {
                             type="text"
                             placeholder="First Name"
                             className="form-control"
-
+                            maxLength="50"
                             id="registerFName"
                             value={registerFirstName}
                             onChange={(event) => {
@@ -237,16 +277,16 @@ const LoginRegister = () => {
                             <p className="invalid-msg-content">
                               Please Enter first name
                             </p>
-                          )}
+                        )}
                         </div>
-
+                        
                         <div className="form_control_grp">
                           <label>Last Name</label>
                           <input
                             type="text"
                             placeholder="Last Name"
                             className="form-control"
-
+                            maxLength="50"
                             id="registerLName"
                             value={registerLastName}
                             onChange={(event) => {
@@ -257,10 +297,10 @@ const LoginRegister = () => {
                             <p className="invalid-msg-content">
                               Please Enter last name
                             </p>
-                          )}
+                        )}
                         </div>
 
-
+                        
                       </div>
                       <div className="form_control_grp">
                         <label>Your Email Address</label>
@@ -268,17 +308,17 @@ const LoginRegister = () => {
                           type="email"
                           placeholder="Email ID will be your username"
                           className="form-control"
-
+                          maxLength="50"
                           id="registerEmailId"
                           value={registerEmailId}
                           onChange={(event) => {
                             setRegisterEmailId(event.target.value);
                           }}
                         />
-                        {registerEmailId.length == 0 && isRegisterFormCliked && (
-                          <p className="invalid-msg-content">Please Enter Email ID</p>
+                        {registerEmailId.length == 0 && isRegisterFormCliked &&(
+                        <p className="invalid-msg-content">Please Enter Email ID</p>
                         )}
-
+                       
                       </div>
                       <div className="form_control_grp">
                         <label>Mobile</label>
@@ -292,9 +332,9 @@ const LoginRegister = () => {
                             setRegisterMobile(event.target.value);
                           }}
                         />
-                        {registerMobileNo == 0 && isRegisterFormCliked && (
+                        {registerMobileNo == 0 && isRegisterFormCliked (
                           <p className="invalid-msg-content">Please Enter Mobile number</p>
-                        )}
+                          )}
                       </div>
 
                       <div className="form_control_grp">
@@ -304,15 +344,15 @@ const LoginRegister = () => {
                           placeholder="Password"
                           className="form-control"
                           id="registerPwd"
-
+                          maxLength="12"
                           value={registerPassword}
                           onChange={(event) => {
                             setRegisterPassword(event.target.value);
                           }}
                         />
-                        {registerPassword == 0 && isRegisterFormCliked && (
+                          {registerPassword == 0 && isRegisterFormCliked (
                           <p className="invalid-msg-content">Please Enter Password</p>
-                        )}
+                          )}
                         <div
                           className="passwordErrorBox hide"
                           id="passwordErrorBox"
@@ -343,15 +383,15 @@ const LoginRegister = () => {
                           placeholder="Confirm Password"
                           className="form-control"
                           id="registerConfirmPwd"
-
+                          maxLength="12"
                           value={registerPasswordConfirmed}
                           onChange={(event) => {
                             setRegisterPasswordConfirmed(event.target.value);
                           }}
                         />
-                        {registerPasswordConfirmed == 0 && isRegisterFormCliked && (
+                        {registerPasswordConfirmed == 0 && isRegisterFormCliked (
                           <p className="invalid-msg-content">Please Enter Confirmed Password</p>
-                        )}
+                          )}
                       </div>
 
                       <div className="form_control_grp">
@@ -380,11 +420,19 @@ const LoginRegister = () => {
                           </a>{" "}
                           and authorize Thomascook to contact me.
                         </p>
-                        {registerPasswordConfirmed == 0 && isRegisterFormCliked && (
+                        {registerPasswordConfirmed == 0 && isRegisterFormCliked (
                           <p className="invalid-msg-content">Please click on Checkbox field</p>
-                        )}
+                          )}
                       </div>
-                      <button type="button" className="login_reg_form_btn" onClick={() => { setIsRegisterFormCliked(true); }} >
+                      <button
+                        type="button"
+                        className="login_reg_form_btn"
+                        id="registerButton"
+                        value={isRegisterFormCliked}
+                        onClick={() => {
+                          setIsRegisterFormCliked(true);
+                        }}
+                      >
                         Register
                       </button>
 
@@ -401,8 +449,8 @@ const LoginRegister = () => {
                       <a
                         className="show_login_form"
                         onClick={() => {
-                          setisRegisterLink(false);
-                          setisLoginLink(true);
+                          setIsRegisterClicked(false);
+                          setIsLoginForm(true);
                         }}
                       >
                         Login

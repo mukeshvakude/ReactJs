@@ -1,24 +1,27 @@
 import { useState } from "react";
 import LandingPage from "./LandingPage";
-
+import { Link } from "react-router-dom";
+import CommonStore from "../Store/CommonStore";
 const Widget = (props) => {
     //CSS Style
     const mystyle = {
         listStyleType: 'none'
     }
     var [isSubmitSearchClicked, setISubmitSearchClicked] = useState(false);
-    function submitSearch() {
-        setISubmitSearchClicked(true);
-    }
-    
+    var updatedURL = CommonStore.useState(s => s.URL);
+    var newURL = updatedURL.trim();
+
     return (
         <>
+        {/* When click on Submit button and if all validation true then create new URL and rendor on landing page for selecetd  Package */}
+        {(props.selectedSearchData !== undefined && JSON.stringify(props.selectedSearchData) !== "{}")  && <LandingPage selectedSearchData ={props.selectedSearchData}/>}
             <div>
                 <div className="container">
-
+                    
                     <form className="d-flex" role="search">
                         <input className="form-control me-2" type="search" value={props.text} placeholder="Destination e.g. Europe / Theme e.g. Adventure" onChange={(e) => { props.setText(e.target.value); props.Search(); setISubmitSearchClicked(false) }} aria-label="Search" />
-                        <button type="button" onClick={() => { submitSearch() }}>Search</button>
+                        {/* <button type="button" onClick={(event) => { submitSearch(event) }}>Search</button> */}
+                        <button type="button" onClick={() => {  setISubmitSearchClicked(true);}}> <Link to= {newURL} > Search</Link></button>
                     </form>
                     {isSubmitSearchClicked === true && props.text.length == 0 && "No Result Founds"}
 
@@ -123,8 +126,7 @@ const Widget = (props) => {
                     </div>
                 </div>
             </div>
-            {/* When click on Submit button and if all validation true then create new URL and rendor on landing page for selecetd  Package */}
-            {(props.selectedSearchData !== undefined && JSON.stringify(props.selectedSearchData) !== "{}") && isSubmitSearchClicked && <LandingPage selectedSearchData ={props.selectedSearchData}/>}
+            
         </>
     );
 }

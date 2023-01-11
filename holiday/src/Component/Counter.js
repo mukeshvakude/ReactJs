@@ -1,4 +1,4 @@
-import  useState from 'react';
+import  {useState} from 'react';
 
 function Counter(){
     
@@ -10,7 +10,7 @@ function Counter(){
     return (
        
         <>
-        <h1>Counter : {counter}</h1>
+        <h1>international Tour packages : {counter}</h1>
         <button onClick = {onCounter}>Click</button>
         </>
     )

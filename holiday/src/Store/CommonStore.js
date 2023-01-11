@@ -2,14 +2,15 @@ import { Store } from "pullstate";
 
 const CommonStore = new Store({
   isDarkMode: true,
+  URL : ""
 });
 
 
-// const isDarkMode = commonStore.useState(s => s.isDarkMode);
+// const updatedURL = CommonStore.useState(s => s.URL);
     
     
-// commonStore.update(s => {
-//         s.isDarkMode = !isDarkMode;
+// CommonStore.update(s => {
+//         s.URL = !updatedURL;
 // })
 
 export default CommonStore;
