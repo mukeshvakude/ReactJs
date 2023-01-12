@@ -31,6 +31,7 @@ function getHeader(){
     res = axios.get(URL , {headers : headerData.headers}).then((response) => {  
         return response.data;     
     }).catch((error)=>{
+        console.log("Error In GET METHOD " ,error );
         return error;    
     });
    

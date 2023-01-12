@@ -22,8 +22,9 @@ const LandingPage = (props) => {
             pdpPkgName = pdpPkgName.replace(/[^a-zA-Z0-9.]/g, '-');
             
             if (isDynamicPackage !== undefined && isDynamicPackage !== null && isDynamicPackage !== "" && isDynamicPackage === "Y") {
-                url = "packages/customized/" + lsRepSpace(pdpPkgName) + "/pkgId/" + pkgId;
+                url = "packages/customized/" + lsRepSpace(pdpPkgName) + "?pkgId=" + pkgId;
             } else {
+
                 if (pdpSeoUrl != null && pdpSeoUrl != 'undefined' && pdpSeoUrl != '') {
                     pdpSeoUrl = pdpSeoUrl.replace(/[^a-zA-Z0-9.]/g, '-');
                     var j = 1;
@@ -51,9 +52,9 @@ const LandingPage = (props) => {
                 //url = lsRepSpace(url);
                 if (sessionStorage.getItem('compare') === 0 || sessionStorage.getItem('compare') === undefined || sessionStorage.getItem('compare') === null)
                     sessionStorage.setItem('compare', "0");
-
+    
                 if (searchType === 'THEME') {
-
+    
                     if (window.location.href.indexOf("india-tour-packages") > -1) {
                         url += "india-tour-packages/";
                     } else if (window.location.href.indexOf("international-tour-packages") > -1) {
@@ -67,12 +68,12 @@ const LandingPage = (props) => {
                     }
                     url = lsRepSpace(url);
                     if (countryCode === 'IN') {
-                        url += '/pkgId/' + pkgId + '/theme/' + pkgId + '_' + destination + '_' + '0' + '/destTag/' + destination;
+                        url += '?pkgId=' + pkgId + '&theme=' + pkgId + '_' + destination + '_' + '0' + '&destTag=' + destination;
                     } else {
-                        url += '/pkgId/' + pkgId + '/theme/' + pkgId + '_' + destination + '_' + '1';
+                        url += '?pkgId=' + pkgId + '&theme=' + pkgId + '_' + destination + '_' + '1';
                     }
                 } else {
-
+    
                     if (searchType === 'CONTINENT') {
                         url += 'international-tour-packages/' + destination + '-tour-packages';
                     } else if (searchType === 'COUNTRY') {
@@ -94,7 +95,7 @@ const LandingPage = (props) => {
                             url += 'international-tour-packages/' + destination + '-tour-packages';
                         }
                     }
-
+    
                     if (searchType === 'Z_NAME') {
                         if (pdpSeoUrl != null && pdpSeoUrl != 'undefined' && pdpSeoUrl != '') {
                             url += 'packages/' + pdpSeoUrl;
@@ -111,81 +112,79 @@ const LandingPage = (props) => {
                         url = lsRepSpace(url);
                     }
                     if (countryCode === 'IN') {
-                        url += '/pkgId/' + pkgId + '/theme/' + pkgId + '_' + destination + '_' + '0' + '/destTag/' + destination;
+                        url += '?pkgId=' + pkgId + '&theme=' + pkgId + '_' + destination + '_' + '0' + '&destTag=' + destination;
                     } else {
                         if (searchType === 'Z_NAME') {
                             if (pdpSeoUrl != null && pdpSeoUrl != 'undefined' && pdpSeoUrl != '') {
-                                url += '/pkgId/' + pkgId + '/destination/' + pkgId + '_' + repSpace(pdpSeoUrl) + '_' + searchType + '_' + '1';
+                                url += '?pkgId=' + pkgId + '&destination=' + pkgId + '_' + repSpace(pdpSeoUrl) + '_' + searchType + '_' + '1';
                             } else {
-                                url += '/pkgId/' + pkgId + '/destination/' + pkgId + '_' + repSpace(pdpPkgName) + '_' + searchType + '_' + '1';
+                                url += '?pkgId=' + pkgId + '&destination=' + pkgId + '_' + repSpace(pdpPkgName) + '_' + searchType + '_' + '1';
                             }
                         } else {
-                            url += '/pkgId/' + pkgId + '/destination/' + pkgId + '_' + destination + '_' + searchType + '_' + '1' + '/destTag/' + destination;
+                            url += '?pkgId=' + pkgId + '&destination=' + pkgId + '_' + destination + '_' + searchType + '_' + '1' + '&destTag=' + destination;
                         }
                     }
                 }
             }
-        }else{
-            {
-                urlQuery = true;
-                if (searchType === 'CONTINENT') {
-                    url += 'international-tour-packages/' + destination + '-tour-packages';
-                } else if (searchType === 'COUNTRY') {
-                    if (countryCode === 'IN'  || countryCode === 'BT' || countryCode === 'LK') {
-                        if (countryCode === 'IN') {
-                            url += 'india-tour-packages';
-                        } else {
-                            url += 'india-tour-packages/' + destination + '-tour-packages';
-                        }
+        } else {
+            urlQuery = true;
+            if (searchType === 'CONTINENT') {
+                url += 'international-tour-packages/' + destination + '-tour-packages';
+            } else if (searchType === 'COUNTRY') {
+                if (countryCode === 'IN' /*|| countryCode === 'NP'*/ || countryCode === 'BT' || countryCode === 'LK') {
+                    if (countryCode === 'IN') {
+                        url += 'india-tour-packages';
                     } else {
-                        url += 'international-tour-packages/' + destination + '-tour-packages';
-                    }
-                } else if (searchType === 'STATE') {
-                    url += 'india-tour-packages/' + destination + '-tour-packages';
-                } else if (searchType === 'CITY') {
-                    if (countryCode === 'IN' /*|| countryCode === 'NP'*/ || countryCode === 'BT' || countryCode === 'LK') {
                         url += 'india-tour-packages/' + destination + '-tour-packages';
-                    } else {
-                        url += 'international-tour-packages/' + destination + '-tour-packages';
                     }
-                } else if (searchType === 'THEME') {
-                    if (window.location.href.indexOf("india-tour-packages") > -1) {
-                        url += "india-tour-packages/";
-                    } else if (window.location.href.indexOf("international-tour-packages") > -1) {
-                        url += "international-tour-packages/";
-                    }
-                    url += destination + '-tour-packages';
-                } else if (holidayBudget !== "" || holidayMonth !== "") {
-                    url += "packages";
-                    urlQuery = true;
                 } else {
-                    url = '';
-                    urlQuery = false;
+                    url += 'international-tour-packages/' + destination + '-tour-packages';
                 }
-                url = lsRepSpace(url);
-        
-                sessionStorage.setItem('view', 'list');
-                if (urlQuery) {
-                    if ((holidayBudget !== "" && holidayBudget !== 0) || (holidayMonth !== "")) {
-                        url += '/';
-                    }
-        
-                    if (holidayBudget !== "" && holidayBudget !== 0)
-                    {
-                        url += 'holidayBudget/' + holidayBudget;
-                    }
-                    if (holidayMonth !== "")
-                    {
-                        if (holidayBudget === "")
-                        {
-                            url += 'holidayMonth/' + holidayMonth;
-                        } else {
-                            url += '/holidayMonth/' + holidayMonth;
-                        }
-                    }
+            } else if (searchType === 'STATE') {
+                url += 'india-tour-packages/' + destination + '-tour-packages';
+            } else if (searchType === 'CITY') {
+                if (countryCode === 'IN' /*|| countryCode === 'NP'*/ || countryCode === 'BT' || countryCode === 'LK') {
+                    url += 'india-tour-packages/' + destination + '-tour-packages';
+                } else {
+                    url += 'international-tour-packages/' + destination + '-tour-packages';
                 }
-        
+            } else if (searchType === 'THEME') {
+                if (window.location.href.indexOf("india-tour-packages") > -1) {
+                    url += "india-tour-packages/";
+                } else if (window.location.href.indexOf("international-tour-packages") > -1) {
+                    url += "international-tour-packages/";
+                }
+                url += destination + '-tour-packages';
+            } else if (holidayBudget !== "" || holidayMonth !== "") {
+                url += "packages";
+                urlQuery = true;
+            } else {
+                url = '';
+                urlQuery = false;
             }
+            url = lsRepSpace(url);
+    
+            sessionStorage.setItem('view', 'list');
+            if (urlQuery) {
+                if ((holidayBudget !== "" && holidayBudget !== 0) || (holidayMonth !== "")) {
+                    url += '?';
+                }
+    
+                if (holidayBudget !== "" && holidayBudget !== 0)
+                {
+                    url += 'holidayBudget=' + holidayBudget;
+                }
+                if (holidayMonth !== "")
+                {
+                    if (holidayBudget === "")
+                    {
+                        url += 'holidayMonth=' + holidayMonth;
+                    } else {
+                        url += '&holidayMonth=' + holidayMonth;
+                    }
+                }
+            }
+    
         }
 
     }
