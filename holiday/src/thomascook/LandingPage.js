@@ -10,16 +10,15 @@ const LandingPage = (props) => {
         var destination = selectedSearchData.searchString;
         var searchType = selectedSearchData.searchType;
         var countryCode = selectedSearchData.countryCode;
-        var holidayBudget = selectedSearchData.budgetHoliday;
-        var holidayMonth = selectedSearchData.monthHoliday;
+        var holidayBudget = selectedSearchData.budgetHoliday !== undefined ? selectedSearchData.budgetHoliday : "";
+        var holidayMonth = selectedSearchData.monthHoliday !== undefined ? selectedSearchData.monthHoliday : "";
         var pdpPkgName = selectedSearchData.packageName;
         var isDynamicPackage = selectedSearchData.isDynamicPackage;
         var pdpSeoUrl = selectedSearchData.pdpSeoUrl;
         var pkgId = selectedSearchData.packageId;
         var urlQuery = false;
         if (pkgId !== '' && pkgId !== undefined) {
-            console.log("pdpPkgName", pdpPkgName);
-            console.log("Package Id" , pkgId);
+           
             pdpPkgName = pdpPkgName.replace(/[^a-zA-Z0-9.]/g, '-');
             
             if (isDynamicPackage !== undefined && isDynamicPackage !== null && isDynamicPackage !== "" && isDynamicPackage === "Y") {
@@ -190,11 +189,10 @@ const LandingPage = (props) => {
         }
 
     }
-    // window.location.href = window.location.origin + "/" + url;
-    console.log("FINAL URL", url);
    
-    CommonStore.update(s => {s.URL = url;
-    })
+    console.log("FINAL URL", url);
+    //Updated Globaly selected URL
+    CommonStore.update(s => {s.URL = url;})
 
 
 }

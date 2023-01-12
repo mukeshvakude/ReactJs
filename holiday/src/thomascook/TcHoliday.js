@@ -38,7 +38,7 @@ const TcHoliday = () => {
         setApiCall(true);
     }
     function autoSuggestSuccess(responseData) {
-        console.log("inside autoSuggestSuccess ", responseData);
+       
         resetSearchData()
         var allTheme = [], allDestination = [], otherPackages = [], searchType = "", searchString = "";
         if (responseData.length > 0) {
@@ -56,9 +56,7 @@ const TcHoliday = () => {
                 }
 
             })
-            console.log("allTheme", allTheme);
-            console.log("otherPackages", otherPackages);
-            console.log("allDestination", allDestination);
+           
 
             responseData.forEach((resData) => {
 
@@ -113,7 +111,7 @@ const TcHoliday = () => {
 
         }
         setSearchData(searchData);
-        console.log("Search Object", searchData);
+        
     }
 
     function getThemeHoldayOtherPackages(holiday, minIndex, maxIndex, isOtherPackage) {

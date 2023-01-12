@@ -1,20 +1,17 @@
 
 import axios from 'axios';
-
 import { getCookie } from 'cookies-next';
 
-var requestId , sessionId;
-if (getCookie('requestId') != null){
-    requestId = getCookie('requestId');
-}        
-if (getCookie('sessionId') != null){
-    sessionId = getCookie('sessionId');
-}
-console.log("requestId" , requestId);
-console.log("sessionId" , sessionId);
-
-
 function getHeader(){
+    
+    var requestId , sessionId;
+    if (getCookie('requestId') != null){
+        requestId = getCookie('requestId');
+    }        
+      
+    if (getCookie('sessionId') != null){
+        sessionId = getCookie('sessionId');
+    }
     var headersData = {
         headers :{
         'Accept': 'application/json; charset=utf-8',
@@ -28,7 +25,8 @@ function getHeader(){
     }
    return  headersData;
 }
-const Get = (URL) =>{
+
+ const Get = (URL) =>{
     var res ,headerData = getHeader();
     res = axios.get(URL , {headers : headerData.headers}).then((response) => {  
         return response.data;     

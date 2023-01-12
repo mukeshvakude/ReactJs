@@ -20,7 +20,7 @@ import
   DYNA_PDP ,HPLUS_PDP,HPLUS_PDP_INTERNATIONAL, HPLUS_PDP_INDIA
 } from './thomascook/Constants/RouteConstants';
 function App() {
-  console.log(INTERNATIONAL_TOUR_PACKAGES_WITH_TOUR_AND_BUDGET_MONTH ,"value")
+  
   return (
     <>
       <Router>

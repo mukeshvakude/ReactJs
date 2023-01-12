@@ -13,7 +13,7 @@ const Widget = (props) => {
 
     return (
         <>
-        {/* When click on Submit button and if all validation true then create new URL and rendor on landing page for selecetd  Package */}
+        {/* When Select package from serach box  and if all validation true then create new URL from landing page for selecetd  Package */}
         {(props.selectedSearchData !== undefined && JSON.stringify(props.selectedSearchData) !== "{}")  && <LandingPage selectedSearchData ={props.selectedSearchData}/>}
             <div>
                 <div className="container">
